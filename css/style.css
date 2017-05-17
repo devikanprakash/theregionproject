@@ -6,9 +6,6 @@ BLUE: #00A9B7
 
 */
 
-
-
-
 *{
 	box-sizing:border-box;
 	padding:0;
@@ -86,21 +83,27 @@ section{
 	background: url("../images/bg_hexagon.png") repeat;
 }
 
-h1{
-	color: #00A9B7;
-	text-transform: uppercase;
-	font-size: 70px;
+h1, h2, h3{
 	margin-bottom: 25px;
+	text-transform: uppercase;
 }
 
-.symbiosis{
-	background: url("../images/bg_orange.png") repeat;
+h1{
+	color: #00A9B7;
+	font-size: 70px;
 }
 
 h2{
 	font-size: 50px;
-	color:white; 
-	text-transform: uppercase;
+}
+
+h3{
+	font-size: 20px;
+}
+
+.symbiosis{
+	background: url("../images/bg_orange.png") repeat;
+	color: #FFF;
 }
 
 .row{
@@ -109,12 +112,15 @@ h2{
 }
 
 .row .col-3{
-	margin: auto;
+	margin: 0 auto;
+	padding: 0 24px;
+	width: 192px;
+	text-align: center;
 }
 
-.row .col-3:last-child{
+/*.row .col-3:last-child{
 	margin-right: 0;
-}
+}*/
 
 .row .content{
 	background-size: cover;
@@ -129,12 +135,17 @@ h2{
 	text-align: center;
 }
 
+div.quote{
+	margin-top: 100px;
+	width: 100px;
+}
+
 .learn-more{
 	margin-top: 100px;
 	text-align: center;
 }
 
-.content a{
+.learn-more a{
 	text-transform: uppercase;
 	text-decoration: none;
 	color: #00A9B7;
