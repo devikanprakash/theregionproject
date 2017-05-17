@@ -174,31 +174,19 @@ blockquote{
 	color: white;
 }
 
-.casestudy .content
-
-
-/*.casestudy a{
-	width: 200px;
-	text-decoration: none;
-	text-align: center;
-	background: red;
-	font-size: 20px;
-}*/
-
-
 .call-to-action a{
   -webkit-border-radius: 3;
   -moz-border-radius: 3;
   border-radius: 3px;
   font-family: Arial;
   color: #ffffff;
-  background: #ED5338;
+  background-color: #ED5338;
   padding: 15px 80px 15px 80px;
   text-decoration: none;
 }
 
-.call-to-action a:hover {
-  background: #C4442D;
+.call-to-action a:hover{
+  background-color: #C4442D;
   text-decoration: none;
 }
 
