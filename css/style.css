@@ -1,5 +1,9 @@
 /*COLOURS
+
+
 BLUE: #00A9B7
+
+
 */
 
 *{
@@ -9,6 +13,7 @@ BLUE: #00A9B7
 	font-family: 'lato', sans-serif;
 }
 
+			
 p{
 	font-size: 16px;
 }
@@ -64,7 +69,7 @@ header nav ul li a:hover{
 
 .home header {
 	position: relative;
-	padding-bottom: 50.78%; 
+	padding-bottom: 50.78%;
 	height: 0;
 }
 
@@ -146,7 +151,6 @@ h3{
 
 div.quote{
 	margin-top: 100px;
-	/*width: 300px;*/
 }
 
 blockquote{
@@ -167,12 +171,17 @@ blockquote{
 	color: #00A9B7;
 }
 
+.typologies{
+	background: url("../images/bg_hexagon.png") repeat;
+}
+
 .casestudy{
 	height: 580px;
 	background-image: url("../images/bg_caseStudy.png");
 	background-size:cover;
 	color: white;
 }
+
 
 .call-to-action a{
   -webkit-border-radius: 3;
@@ -205,7 +214,7 @@ footer nav ul li{
 	margin-right: 30px;
 	/*float: left;*/
 	text-align: center;
-	
+
 }
 
 footer section{
@@ -238,4 +247,3 @@ p.about{
 .contact{
 	margin-left: 150px;
 }
-
