@@ -82,6 +82,16 @@ header nav ul li a:hover{
 	z-index: -1;
 }
 
+.phenomena header {
+	position: relative;
+	height: 650px;
+	background: url("http://fillmurray.com/1280/650");
+	background-size: cover;
+	background-position: center;
+}
+
+
+
 section{
 	padding: 100px 0;
 }
@@ -95,9 +105,17 @@ h1, h2, h3{
 	text-transform: uppercase;
 }
 
-h1{
+.home h1{
 	color: #00A9B7;
+	text-align: left;
+	padding: 0;
+}
+
+h1{
 	font-size: 70px;
+	text-align: center;
+	padding: 200px 0 50px 0;
+	color: white;
 }
 
 h2{
@@ -106,6 +124,13 @@ h2{
 
 h3{
 	font-size: 20px;
+}
+
+
+header p{
+	text-align: left;
+	color: white;
+	padding-top: ;
 }
 
 .links h3{
@@ -128,12 +153,14 @@ h3{
 	padding: 0 24px;
 	width: 192px;
 	text-align: center;
+	flex-basis:33%;
 }
 
 .row .col-2{
 	margin: auto;
 	padding: 0 24px;
 	text-align: center;
+	flex-basis:50%;
 }
 
 .row .content{
