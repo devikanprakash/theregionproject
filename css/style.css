@@ -13,18 +13,20 @@
 
 header nav{
 	width:100%;
-	
 }
+
 header nav a img{
-	width: 13%;
+	width: 50px;
 	float: left;
-	padding: 10px;
+	margin-top: 40px;
 }
+
 header nav ul{
 	list-style: none;
-	padding-top: 50px;
 	float: right;
+	margin-top: 40px;
 }
+
 header nav ul li{
 	display: inline-block;
 	/* margin-left: 80px; */
@@ -32,18 +34,20 @@ header nav ul li{
 	text-align: center;
 	margin-left: 40px;
 }
+
 header nav ul li a{
 	text-decoration: none;
 	color: white;
 	font-family: 'Lato', sans-serif;
 	font-weight: 300;
 	display: block;
-	font-size: 21px;
+	font-size: 16px;
 	border-bottom: 3px solid transparent;
 	padding-bottom:5px;
 	text-transform: uppercase;
 	transition:0.3s;
 }
+
 header nav ul li a:hover{
 	border-bottom: white solid 3px;
 }
@@ -54,6 +58,7 @@ header nav ul li a:hover{
 	/*padding-top: 25px;*/
 	height: 0;
 }
+
 .home header video {
 	position: absolute;
 	top: 0;
@@ -62,50 +67,62 @@ header nav ul li a:hover{
 	height: 100%;
 	z-index: -1;
 }
+
 .hexagon-bg{
 	background-image:url("images/bg_hexagon.png");
 }
+
 div h1{
 	color:blue;
 	text-transform: uppercase;
 	font-size: 60px;
 	padding-top: 4px;
 }
+
 .symbiosis{
 	background-image:url("images/bg_orange.png");
 }
+
 h2{
 	font-size: 40px;
 	color:white; 
 }
+
 .row{
 	display: flex;
 }
+
 .row .col-3{
 	width: 30%;
 	margin-right: 3%
 
 }
+
 .row .col-3:last-child{
 	margin-right: 0;
 }
+
 .row .content{
 	background-size: cover;
 	background-image: url("images/bg_hexagon.png");
 }
+
 .casestudy{
 	background-image: url("images/bg_caseStudy.png");
 	background-size:cover;
 	padding: 250px;
 }
+
 .casestudy h2{
 	font-size: 40px;
 	padding-top: 20px;
 	padding-bottom: 10px;
 }
+
 .casestudy p{
 	color: white;
 }
+
 .casestudy a{
 	text-decoration: none;
 	text-align: center;
@@ -115,6 +132,7 @@ h2{
 	margin: auto;
 
 }
+
 footer {
 	width:100%;
 	color: #fff;
@@ -122,10 +140,12 @@ footer {
 	padding-bottom: 200px;
 
 }
+
 footer nav ul{
 	list-style: none;
 	padding-top: 20px;
 }
+
 footer nav ul li{
 	display: inline-block;
 	margin-right: 30px;
@@ -133,27 +153,31 @@ footer nav ul li{
 	text-align: center;
 	
 }
+
 footer nav ul li a{
 	text-decoration: none;
 	color: white;
 	font-family: 'Lato', sans-serif;
 	font-weight: 300;
 	display: block;
-	font-size: 20px;
+	font-size: 16px;
 	border-bottom: 3px solid transparent;
 	padding-bottom:5px; 
 	text-transform: uppercase;
 
 }
+
 .iwb article{
 	margin-top: 10px;
 	display: flex;
 	width: 65%;
-}	
+}
+
 .iwb article img{
 	width: 15%;
 	height: 80%;
 }
+
 .iwb article p{
 	padding-left: 5px;
 
