@@ -14,9 +14,9 @@ p{
 }
 
 .content{
-	max-width:1024px;
+	max-width:1280px;
 	margin: auto;
-	padding: 0 20px;
+	padding: 0 126px;
 }
 
 header nav{
@@ -37,13 +37,11 @@ header nav ul{
 
 header nav ul li{
 	display: inline-block;
-	/* margin-left: 80px; */
-	/* float: left; */
 	text-align: center;
 	margin-left: 40px;
 }
 
-header nav ul li a{
+nav ul li a{
 	text-decoration: none;
 	color: white;
 	font-family: 'Lato', sans-serif;
@@ -51,8 +49,12 @@ header nav ul li a{
 	display: block;
 	font-size: 16px;
 	border-bottom: 3px solid transparent;
-	padding-bottom:5px;
+	padding-bottom:5px; 
 	text-transform: uppercase;
+}
+
+header nav ul li a{
+
 	transition:0.3s;
 }
 
@@ -166,10 +168,14 @@ blockquote{
 }
 
 .casestudy{
+	height: 580px;
 	background-image: url("../images/bg_caseStudy.png");
 	background-size:cover;
 	color: white;
 }
+
+.casestudy .content
+
 
 /*.casestudy a{
 	width: 200px;
@@ -197,11 +203,8 @@ blockquote{
 }
 
 footer {
-	width:100%;
 	color: #fff;
 	background:black;
-	padding-bottom: 200px;
-
 }
 
 footer nav ul{
@@ -217,33 +220,34 @@ footer nav ul li{
 	
 }
 
-footer nav ul li a{
-	text-decoration: none;
-	color: white;
-	font-family: 'Lato', sans-serif;
-	font-weight: 300;
-	display: block;
-	font-size: 16px;
-	border-bottom: 3px solid transparent;
-	padding-bottom:5px; 
-	text-transform: uppercase;
+footer section{
+	padding: 50px 0;
+}
 
+p.about{
+	width: 320px;
 }
 
 .iwb article{
-	margin-top: 10px;
 	display: flex;
-	width: 65%;
 }
 
 .iwb article img{
-	width: 15%;
-	height: 80%;
+	height: 85px;
+	width: auto;
 }
 
-.iwb article p{
-	padding-left: 5px;
+.iwb p{
+	margin-left: 20px;
+	text-align: left;
+	font-size: 12px;
+}
 
-	
+.iwb strong{
+	text-transform: uppercase;
+}
+
+.contact{
+	margin-left: 150px;
 }
 
