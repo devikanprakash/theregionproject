@@ -13,7 +13,7 @@ BLUE: #00A9B7
 	font-family: 'lato', sans-serif;
 }
 
-			
+
 p{
 	font-size: 16px;
 }
@@ -54,7 +54,7 @@ nav ul li a{
 	display: block;
 	font-size: 16px;
 	border-bottom: 3px solid transparent;
-	padding-bottom:5px; 
+	padding-bottom:5px;
 	text-transform: uppercase;
 }
 
@@ -201,6 +201,15 @@ blockquote{
 .typologies{
 	background: url("../images/bg_hexagon.png") repeat;
 }
+
+/*.flex-container{
+	display: flex;
+	flex-direction: row;
+}
+
+.item{
+	align-items:
+}*/
 
 .casestudy{
 	height: 580px;
