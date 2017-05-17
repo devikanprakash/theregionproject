@@ -155,6 +155,10 @@ div.quote{
 	background: url("../images/bg_hexagon.png") repeat;
 }
 
+.col-2{
+
+}
+
 .casestudy{
 	background-image: url("images/bg_caseStudy.png");
 	background-size:cover;
