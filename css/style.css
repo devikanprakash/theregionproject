@@ -1,3 +1,13 @@
+/*COLOURS
+
+
+BLUE: #00A9B7
+
+
+*/
+
+
+
 
 *{
 	box-sizing:border-box;
@@ -68,34 +78,38 @@ header nav ul li a:hover{
 	z-index: -1;
 }
 
-.hexagon-bg{
-	background-image:url("images/bg_hexagon.png");
+section{
+	padding: 100px 0;
 }
 
-div h1{
-	color:blue;
+.world-regionalizing{
+	background: url("../images/bg_hexagon.png") repeat;
+}
+
+h1{
+	color: #00A9B7;
 	text-transform: uppercase;
-	font-size: 60px;
-	padding-top: 4px;
+	font-size: 70px;
+	margin-bottom: 25px;
 }
 
 .symbiosis{
-	background-image:url("images/bg_orange.png");
+	background: url("../images/bg_orange.png") repeat;
 }
 
 h2{
-	font-size: 40px;
+	font-size: 50px;
 	color:white; 
+	text-transform: uppercase;
 }
 
 .row{
 	display: flex;
+	margin-top: 50px;
 }
 
 .row .col-3{
-	width: 30%;
-	margin-right: 3%
-
+	margin: auto;
 }
 
 .row .col-3:last-child{
@@ -105,6 +119,25 @@ h2{
 .row .content{
 	background-size: cover;
 	background-image: url("images/bg_hexagon.png");
+}
+
+.row img{
+	margin-bottom: 25px;
+}
+
+.row p{
+	text-align: center;
+}
+
+.learn-more{
+	margin-top: 100px;
+	text-align: center;
+}
+
+.content a{
+	text-transform: uppercase;
+	text-decoration: none;
+	color: #00A9B7;
 }
 
 .casestudy{
