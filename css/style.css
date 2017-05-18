@@ -90,8 +90,6 @@ header nav ul li a:hover{
 	background-position: center;
 }
 
-
-
 section{
 	padding: 100px 0;
 }
@@ -283,3 +281,69 @@ p.about{
 .contact{
 	margin-left: 150px;
 }
+
+
+
+/*---------- PHENOMENA GRID ---------------*/
+.square{
+	position: relative;
+	width: 280px;
+	height: 280px;
+	display: inline-block;
+}
+
+.phenomena-grid .row{
+	margin: 0;
+}
+
+.square span.text-content {
+  background: rgba(0,0,0,0.6);
+  color: white;
+  cursor: pointer;
+  display: table;
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 280px;
+  height: 280px;
+  opacity: 0;
+  text-transform: uppercase;
+  font-size: 30px;
+}
+
+.square span.text-content span {
+  display: table-cell;
+  text-align: center;
+  vertical-align: middle;
+}
+
+div.square:hover span.text-content {
+  opacity: 1;
+}
+
+.row img{
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*-----------------------------------------*/
