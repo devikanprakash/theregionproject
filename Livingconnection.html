@@ -87,8 +87,8 @@
 			<ul class="map-menu">
 				<li class="EE">
 					<div>
-						<div class="circle-btn"></div>
-						<p>Economic Exchange</p>
+						<!-- <div class="circle-btn"></div> -->
+						<p class="clicked">Economic Exchange</p>
 
 					</div>
 				</li>
@@ -129,7 +129,7 @@
 				</li>
 			</ul>
 			<div class="map">
-				<img class="EE" src="images/EE_images.png">
+				<img class="EE clicked" src="images/EE_images.png">
 				<img class="SI" src="images/SI_images.png">
 				<img class="NS" src="images/NS_images.png">
 				<img class="KS" src="images/KS_images.png">
@@ -174,7 +174,8 @@
 		  	$("ul.map-menu li").click(
 		  		function(){ 
 		  			classClicked = $(this).attr("class");
-		  			$("div.map").find(`img.${classClicked}`).fadeToggle();
+		  			$("div.map").find(`img.${classClicked}`).toggleClass("clicked");
+		  			$(this).children("div").children("p").toggleClass("clicked");		  			
 		  		}
 	  		);
 
