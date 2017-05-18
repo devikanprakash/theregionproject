@@ -106,6 +106,14 @@ header nav ul li a:hover{
 	background-position: center;
 }
 
+.livingconnection header {
+	position: relative;
+	height: 650px;
+	background: url("../images/bg_livingconnection.jpg");
+	background-size: cover;
+	background-position: center;
+}
+
 .symbiosis, .design-strategy, .goals{
 	background: url("../images/bg_orange.png") repeat;
 	color: #FFF;
@@ -258,6 +266,133 @@ blockquote{
 .call-to-action a:hover{
   background-color: #C4442D;
   text-decoration: none;
+}
+
+/*Living connection page start here*/
+.livingconnection{
+	background-image: none);
+}
+.row.grid{
+	flex-flow: wrap;
+
+}
+
+.row .col-6{
+	padding: 0 20px;
+	margin-bottom: 60px;
+	flex-basis:33%;
+	text-align: center;
+
+}
+.row .col-6 p{
+	text-align: left;
+}
+.row .col-6 h3{
+	background-image:url("../images/bg_hexagon.png");
+	background-size:5%;
+	background-color: #333;
+	color: white;
+}
+.content p{
+	padding-bottom: 10px;
+}
+
+/*.circle-btn{
+	width: 24px;
+	height: 24px;
+	border: solid grey 2px;
+	border-radius: 50%;
+	margin: auto;
+	cursor: pointer;
+	transition:0.2s;
+}*/
+.map-menu div p{
+	border: 2px solid red;
+	padding:20px 10px;	
+	cursor: pointer;
+	transition:0.2s;
+	font-weight: 400;
+}
+/*.EE .circle-btn{ border-color: red; }
+.EE .circle-btn.clicked{ background: rgba(230, 92, 92, 1) }
+.EE .circle-btn:hover{ background: rgba(230, 92, 92, 0.59); }*/
+.EE div p{border-color: red;}
+.EE div p.clicked{background:red; }
+
+.SI div p{ border-color: orange; }
+.SI div p.clicked{background:orange; }
+
+.NS div p{ border-color: #ADFF2F; }
+.NS div p.clicked{background:#ADFF2F; }
+
+.KS div p{ border-color: #DAA520; }
+.KS div p.clicked{background:#DAA520; }
+
+.CT div p{ border-color: #FF8C00; }
+.CT div p.clicked{background:#FF8C00; }
+
+.PB div p{ border-color: #8B008B; }
+.PB div p.clicked{background:#8B008B; }
+
+/*.SI .circle-btn{ border-color: 	#ADFF2F; }
+.SI .circle-btn.clicked{ background:#ADFF2F; }
+
+.NS .circle-btn{ border-color: orange; }
+.NS .circle-btn.clicked{ background: orange; }
+
+.KS .circle-btn{ border-color: 	#DAA520; }
+.KS .circle-btn.clicked{ background: 	#DAA520; }
+
+.CT .circle-btn{ border-color: #FF8C00; }
+.CT .circle-btn.clicked{ background: #FF8C00; }
+
+.PB .circle-btn{ border-color: #8B008B; }
+.PB .circle-btn.clicked{ background: #8B008B; }*/
+
+.livingconnection .content .map-menu{
+	list-style: none;
+}
+.map-menu li{
+	display: inline-block;
+	text-align: center;
+	margin-left:26px;
+	padding-top: 44px;
+}
+.map-menu li:first-child{
+	margin-left: 0;
+}
+.map-menu li div p{
+	text-decoration: none;
+	color: black;
+	font-family: 'Lato', sans-serif;
+	font-weight: bolder;
+	display: block;
+	font-size: 12px;
+	padding-top: 4px;
+	padding-bottom:5px;
+	text-transform: uppercase;
+}
+.map{
+	position: relative;
+	height: 780px;
+}
+
+.map img{
+	position: absolute;
+	opacity: 0;
+	width: 80%;
+	top: 0;
+	left:10%;
+	transition:0.3s;
+	z-index: 2;
+
+}
+.map img.clicked{
+	opacity: 1;
+}
+.map .base_map{
+	opacity: 1;
+	z-index: 1;
 }
 
 footer {
