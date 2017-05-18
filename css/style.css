@@ -90,6 +90,14 @@ header nav ul li a:hover{
 	background-position: center;
 }
 
+.whatisaregion header {
+	position: relative;
+	height: 650px;
+	background: url("../images/whatisaregion-cover.png");
+	background-size: cover;
+	background-position: center;
+}
+
 section{
 	padding: 100px 0;
 }
@@ -200,15 +208,6 @@ blockquote{
 	background: url("../images/bg_hexagon.png") repeat;
 }
 
-/*.flex-container{
-	display: flex;
-	flex-direction: row;
-}
-
-.item{
-	align-items:
-}*/
-
 .casestudy{
 	height: 580px;
 	background-image: url("../images/bg_caseStudy.png");
@@ -309,6 +308,8 @@ p.about{
   opacity: 0;
   text-transform: uppercase;
   font-size: 30px;
+  transition: 0.3s;
+
 }
 
 .square span.text-content span {
