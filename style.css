@@ -101,7 +101,7 @@ header nav ul li a:hover{
 .livingconnection header {
 	position: relative;
 	height: 650px;
-	background: url("../images/bg_living.jpg");
+	background: url("../images/bg_livingconnection.jpg");
 	background-size: cover;
 	background-position: center;
 }
@@ -244,7 +244,7 @@ blockquote{
 }
 /*Living connection page start here*/
 .livingconnection{
-	background-image: url("../images/bg_hexagon.png");
+	background-image: none);
 }
 .row.grid{
 	flex-flow: wrap;
@@ -261,22 +261,54 @@ blockquote{
 .row .col-6 p{
 	text-align: left;
 }
+.row .col-6 h3{
+	background-image:url("../images/bg_hexagon.png");
+	background-size:5%;
+	background-color: #333;
+	color: white;
+}
 .content p{
 	padding-bottom: 10px;
 }
 
-.circle-btn{
+/*.circle-btn{
 	width: 24px;
 	height: 24px;
 	border: solid grey 2px;
 	border-radius: 50%;
 	margin: auto;
+	cursor: pointer;
+	transition:0.2s;
+}*/
+.map-menu div p{
+	border: 2px solid red;
+	padding:20px 10px;	
+	cursor: pointer;
+	transition:0.2s;
+	font-weight: 400;
 }
+/*.EE .circle-btn{ border-color: red; }
+.EE .circle-btn.clicked{ background: rgba(230, 92, 92, 1) }
+.EE .circle-btn:hover{ background: rgba(230, 92, 92, 0.59); }*/
+.EE div p{border-color: red;}
+.EE div p.clicked{background:red; }
 
-.EE .circle-btn{ border-color: red; }
-.EE .circle-btn.clicked{ background: red; }
+.SI div p{ border-color: orange; }
+.SI div p.clicked{background:orange; }
 
-.SI .circle-btn{ border-color: 	#ADFF2F; }
+.NS div p{ border-color: #ADFF2F; }
+.NS div p.clicked{background:#ADFF2F; }
+
+.KS div p{ border-color: #DAA520; }
+.KS div p.clicked{background:#DAA520; }
+
+.CT div p{ border-color: #FF8C00; }
+.CT div p.clicked{background:#FF8C00; }
+
+.PB div p{ border-color: #8B008B; }
+.PB div p.clicked{background:#8B008B; }
+
+/*.SI .circle-btn{ border-color: 	#ADFF2F; }
 .SI .circle-btn.clicked{ background:#ADFF2F; }
 
 .NS .circle-btn{ border-color: orange; }
@@ -289,7 +321,7 @@ blockquote{
 .CT .circle-btn.clicked{ background: #FF8C00; }
 
 .PB .circle-btn{ border-color: #8B008B; }
-. .circle-btn.clicked{ background: #8B008B; }
+.PB .circle-btn.clicked{ background: #8B008B; }*/
 
 .livingconnection .content .map-menu{
 	list-style: none;
@@ -297,7 +329,7 @@ blockquote{
 .map-menu li{
 	display: inline-block;
 	text-align: center;
-	margin-left:54px;
+	margin-left:26px;
 	padding-top: 44px;
 }
 .map-menu li:first-child{
@@ -321,15 +353,18 @@ blockquote{
 
 .map img{
 	position: absolute;
-	display: none;
+	opacity: 0;
 	width: 80%;
 	top: 0;
 	left:10%;
+	transition:0.3s;
 
 }
-
+.map img.clicked{
+	opacity: 1;
+}
 .map .base_map{
-	display: block;
+	opacity: 1;
 }
 
 
