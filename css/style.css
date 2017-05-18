@@ -99,10 +99,10 @@ header nav ul li a:hover{
 }
 
 section{
-	padding: 100px 0;
+	padding: 50px 0;
 }
 
-.world-regionalizing, .links{
+.world-regionalizing, .links, body.phenomena{
 	background: url("../images/bg_hexagon.png") repeat;
 }
 
@@ -235,11 +235,11 @@ blockquote{
 footer {
 	color: #fff;
 	background:black;
+	padding: 50px 0; 
 }
 
 footer nav ul{
 	list-style: none;
-	padding-top: 20px;
 }
 
 footer nav ul li{
@@ -289,6 +289,7 @@ p.about{
 	width: 280px;
 	height: 280px;
 	display: inline-block;
+	margin: 10px;
 }
 
 .phenomena-grid .row{
@@ -329,8 +330,11 @@ div.square:hover span.text-content {
 }
 
 .lightbox {
-	width: 800px;
 	display: none;
+}
+
+.lightbox .row{
+	margin-top: 0;
 }
 
 div.lightbox .title div{
@@ -360,13 +364,20 @@ div.lightbox h3{
 	flex-basis: 90%;
 }
 
+.lightbox .row .col-4{
+	margin: auto;
+	padding: 0 24px;
+	text-align: center;
+	flex-basis: 25%;
+}
+
 .lightbox .row p, .lightbox .row h2, .lightbox .row h3{
 	text-align: left;
 }
 
-/*.lightbox div.col-2{
-	text-align: left;
-}*/
+.featherlight .featherlight-content {
+	width: 60%;
+}
 
 hr {
     border: 0;
@@ -374,8 +385,6 @@ hr {
     background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));
     margin: 50px 0;
 }
-
-
 
 
 
