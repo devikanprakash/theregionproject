@@ -1,0 +1,384 @@
+/*COLOURS
+
+
+BLUE: #00A9B7
+
+
+*/
+
+*{
+	box-sizing:border-box;
+	padding:0;
+	margin:0;
+	font-family: 'lato', sans-serif;
+}
+
+
+p{
+	font-size: 16px;
+}
+
+.content{
+	max-width:1280px;
+	margin: auto;
+	padding: 0 126px;
+}
+
+header nav{
+	width:100%;
+}
+
+header nav a img{
+	width: 50px;
+	float: left;
+	margin-top: 40px;
+}
+
+header nav ul{
+	list-style: none;
+	float: right;
+	margin-top: 40px;
+}
+
+header nav ul li{
+	display: inline-block;
+	text-align: center;
+	margin-left: 40px;
+}
+
+nav ul li a{
+	text-decoration: none;
+	color: white;
+	font-family: 'Lato', sans-serif;
+	font-weight: 300;
+	display: block;
+	font-size: 16px;
+	border-bottom: 3px solid transparent;
+	padding-bottom:5px;
+	text-transform: uppercase;
+}
+
+header nav ul li a{
+
+	transition:0.3s;
+}
+
+header nav ul li a:hover{
+	border-bottom: white solid 3px;
+}
+
+.home header {
+	position: relative;
+	padding-bottom: 50.78%;
+	height: 0;
+}
+
+.home header video {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	z-index: -1;
+}
+
+.phenomena header {
+	position: relative;
+	height: 650px;
+	background: url("http://fillmurray.com/1280/650");
+	background-size: cover;
+	background-position: center;
+}
+
+.whatisaregion header {
+	position: relative;
+	height: 650px;
+	background: url("../images/whatisaregion-cover.png");
+	background-size: cover;
+	background-position: center;
+}
+
+.livingconnection header {
+	position: relative;
+	height: 650px;
+	background: url("../images/bg_living.jpg");
+	background-size: cover;
+	background-position: center;
+}
+section{
+	padding: 100px 0;
+}
+
+.world-regionalizing, .links{
+	background: url("../images/bg_hexagon.png") repeat;
+}
+
+h1, h2, h3{
+	margin-bottom: 25px;
+	text-transform: uppercase;
+}
+
+.home h1{
+	color: #00A9B7;
+	text-align: left;
+	padding: 0;
+}
+
+h1{
+	font-size: 70px;
+	text-align: center;
+	padding: 200px 0 50px 0;
+	color: white;
+}
+
+h2{
+	font-size: 50px;
+}
+
+h3{
+	font-size: 20px;
+}
+
+
+header p{
+	text-align: left;
+	color: white;
+	padding-top: ;
+}
+
+.links h3{
+	font-size: 30px;
+	font-weight: 200;
+}
+
+.symbiosis{
+	background: url("../images/bg_orange.png") repeat;
+	color: #FFF;
+}
+
+.row{
+	display: flex;
+	margin-top: 50px;
+}
+
+.row .col-3{
+	margin: 0 auto;
+	padding: 0 24px;
+	width: 192px;
+	text-align: center;
+	flex-basis:33%;
+}
+
+.row .col-2{
+	margin: auto;
+	padding: 0 24px;
+	text-align: center;
+	flex-basis:50%;
+}
+
+
+.row .content{
+	background-size: cover;
+	background-image: url("images/bg_hexagon.png");
+}
+
+
+
+
+.row img{
+	margin-bottom: 25px;
+}
+
+.row p{
+	text-align: center;
+}
+
+div.quote{
+	margin-top: 100px;
+}
+
+blockquote{
+	font-size: 20px;
+	font-style: italic;
+	margin: auto;
+	vertical-align: center;
+}
+
+.learn-more{
+	margin-top: 100px;
+	text-align: center;
+}
+
+.learn-more a{
+	text-transform: uppercase;
+	text-decoration: none;
+	color: #00A9B7;
+}
+
+.typologies{
+	background: url("../images/bg_hexagon.png") repeat;
+}
+
+.casestudy{
+	height: 580px;
+	background-image: url("../images/bg_caseStudy.png");
+	background-size:cover;
+	color: white;
+}
+
+
+.call-to-action a{
+  -webkit-border-radius: 3;
+  -moz-border-radius: 3;
+  border-radius: 3px;
+  font-family: Arial;
+  color: #ffffff;
+  background-color: #ED5338;
+  padding: 15px 80px 15px 80px;
+  text-decoration: none;
+}
+
+.call-to-action a:hover{
+  background-color: #C4442D;
+  text-decoration: none;
+}
+/*Living connection page start here*/
+.livingconnection{
+	background-image: url("../images/bg_hexagon.png");
+}
+.row.grid{
+	flex-flow: wrap;
+
+}
+
+.row .col-6{
+	padding: 0 20px;
+	margin-bottom: 60px;
+	flex-basis:33%;
+	text-align: center;
+
+}
+.row .col-6 p{
+	text-align: left;
+}
+.content p{
+	padding-bottom: 10px;
+}
+
+.circle-btn{
+	width: 24px;
+	height: 24px;
+	border: solid grey 2px;
+	border-radius: 50%;
+	margin: auto;
+}
+
+.EE .circle-btn{ border-color: red; }
+.EE .circle-btn.clicked{ background: red; }
+
+.SI .circle-btn{ border-color: 	#ADFF2F; }
+.SI .circle-btn.clicked{ background:#ADFF2F; }
+
+.NS .circle-btn{ border-color: orange; }
+.NS .circle-btn.clicked{ background: orange; }
+
+.KS .circle-btn{ border-color: 	#DAA520; }
+.KS .circle-btn.clicked{ background: 	#DAA520; }
+
+.CT .circle-btn{ border-color: #FF8C00; }
+.CT .circle-btn.clicked{ background: #FF8C00; }
+
+.PB .circle-btn{ border-color: #8B008B; }
+. .circle-btn.clicked{ background: #8B008B; }
+
+.livingconnection .content .map-menu{
+	list-style: none;
+}
+.map-menu li{
+	display: inline-block;
+	text-align: center;
+	margin-left:54px;
+	padding-top: 44px;
+}
+.map-menu li:first-child{
+	margin-left: 0;
+}
+.map-menu li div p{
+	text-decoration: none;
+	color: black;
+	font-family: 'Lato', sans-serif;
+	font-weight: bolder;
+	display: block;
+	font-size: 12px;
+	padding-top: 4px;
+	padding-bottom:5px;
+	text-transform: uppercase;
+}
+.map{
+	position: relative;
+	height: 780px;
+}
+
+.map img{
+	position: absolute;
+	display: none;
+	width: 80%;
+	top: 0;
+	left:10%;
+
+}
+
+.map .base_map{
+	display: block;
+}
+
+
+
+footer {
+	color: #fff;
+	background:black;
+}
+
+footer nav ul{
+	list-style: none;
+	padding-top: 20px;
+}
+
+footer nav ul li{
+	display: inline-block;
+	margin-right: 30px;
+	/*float: left;*/
+	text-align: center;
+
+}
+
+footer section{
+	padding: 50px 0;
+}
+
+p.about{
+	width: 320px;
+}
+
+.iwb article{
+	display: flex;
+}
+
+.iwb article img{
+	height: 85px;
+	width: auto;
+}
+
+.iwb p{
+	margin-left: 20px;
+	text-align: left;
+	font-size: 12px;
+}
+
+.iwb strong{
+	text-transform: uppercase;
+}
+
+.contact{
+	margin-left: 150px;
+}
