@@ -98,11 +98,35 @@ header nav ul li a:hover{
 	background-position: center;
 }
 
-section{
-	padding: 50px 0;
+.casestudy header {
+	position: relative;
+	height: 650px;
+	background: url("../images/case-study-background.png");
+	background-size: cover;
+	background-position: center;
 }
 
-.world-regionalizing, .links, body.phenomena{
+.symbiosis, .design-strategy, .goals{
+	background: url("../images/bg_orange.png") repeat;
+	color: #FFF;
+}
+
+.scales, .waterfront-context{
+	background: url("../images/bg_blue.png") repeat;
+	color: #FFF;
+}
+
+.typologies{
+	background: url("../images/bg_hexagon.png") repeat;
+}
+
+section{
+	padding: 100px 0;
+}
+
+.world-regionalizing, .links, body.phenomena, .process,
+.strategy
+{
 	background: url("../images/bg_hexagon.png") repeat;
 }
 
@@ -144,10 +168,7 @@ header p{
 	font-weight: 200;
 }
 
-.symbiosis{
-	background: url("../images/bg_orange.png") repeat;
-	color: #FFF;
-}
+
 
 .row{
 	display: flex;
@@ -163,7 +184,7 @@ header p{
 }
 
 .row .col-2{
-	margin: auto;
+	margin: 0 auto;
 	padding: 0 24px;
 	text-align: center;
 	flex-basis:50%;
@@ -186,11 +207,20 @@ div.quote{
 	margin-top: 100px;
 }
 
+blockquote:first-child{
+	margin-top: 0;
+}
+
 blockquote{
 	font-size: 20px;
 	font-style: italic;
 	margin: auto;
 	vertical-align: center;
+	margin: 40px 0;
+}
+
+.casestudy blockquote{
+	font-size: 16px;
 }
 
 .learn-more{
@@ -204,16 +234,7 @@ blockquote{
 	color: #00A9B7;
 }
 
-.typologies{
-	background: url("../images/bg_hexagon.png") repeat;
-}
 
-.casestudy{
-	height: 580px;
-	background-image: url("../images/bg_caseStudy.png");
-	background-size:cover;
-	color: white;
-}
 
 
 .call-to-action a{
@@ -286,10 +307,11 @@ p.about{
 /*---------- PHENOMENA GRID ---------------*/
 .square{
 	position: relative;
-	width: 280px;
-	height: 280px;
-	display: inline-block;
+	/* width: 280px; */
+	/* height: 280px; */
+	/* display: inline-block; */
 	margin: 10px;
+	flex-basis: 25%;
 }
 
 .phenomena-grid .row{
@@ -304,13 +326,14 @@ p.about{
   position: absolute;
   left: 0;
   top: 0;
-  width: 280px;
-  height: 280px;
+  width: 100%;
+  height: 100%;
   opacity: 0;
   text-transform: uppercase;
-  font-size: 30px;
+  font-size: 2vw;
   transition: 0.3s;
-
+  /* bottom: 0; */
+  /* right: 0; */
 }
 
 .square span.text-content span {
@@ -327,6 +350,7 @@ div.square:hover span.text-content {
   margin: 0;
   padding: 0;
   text-align: center;
+  width: 100%;
 }
 
 .lightbox {
@@ -386,6 +410,68 @@ hr {
     margin: 50px 0;
 }
 
+.strategy-number, .objective-number{
+	font-family: Cambria, serif;
+	font-size: 130px;
+	font-style: italic;
+	line-height: 92px;	
+	display: inline-block;
+	margin-right: 25px;
+}
+
+.strategy-number{
+	color: rgba(0,169,183,0.3);
+}
+
+.objective-number{
+	color: rgba(255,255,255,0.3);
+	margin-bottom: 25px;
+}
+
+section.strategy-list{
+	padding: 0;
+	margin: 0 auto;
+	width: 65%;
+}
+
+section.strategy-list h3{
+	margin-bottom: 5px;
+}
+
+.strategy-list p{
+	text-align: left;
+}
+
+.single-strategy{
+	min-height: 150px;
+}
+
+.applicability-header{
+	text-transform: uppercase;
+	color: #00A9B7;
+	margin: 25px 0 10px;
+}
+
+.applicability span{
+	margin-left: 20px;
+	display: block;
+    height: 40px;
+    width: 40px;
+    line-height: 35px;
+
+    -moz-border-radius: 30px; /* or 50% */
+    border-radius: 30px; /* or 50% */
+    border: #00A9B7 solid;
+
+    /*background-color: black;*/
+    color: #00A9B7;
+    text-align: center;
+    font-size: 15px;
+}
+
+div.applicability{
+	margin: 0;
+}
 
 
 
