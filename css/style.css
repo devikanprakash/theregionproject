@@ -93,7 +93,7 @@ header nav ul li a:hover{
 .phenomena header {
 	position: relative;
 	height: 650px;
-	background: url("http://fillmurray.com/1280/650");
+	background: url("../images/bannerphenomena.png");
 	background-size: cover;
 	background-position: center;
 }
@@ -642,8 +642,6 @@ div.applicability{
 	margin: 0;
 }
 
-
-
 .process{
 	padding-bottom: 56.25%;
 	height: 0;
@@ -663,5 +661,11 @@ div.applicability{
 }
 
 .world-regionalizing img{
-	width: 40%;
+	width: 50%;
+	margin-bottom: 30px;
+}
+
+.symbiosis svg{
+	height: 100%;
+	margin-bottom: 30px;
 }
