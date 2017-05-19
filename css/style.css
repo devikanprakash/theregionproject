@@ -675,3 +675,8 @@ div.applicability{
 	width: auto;
 	margin: auto;
 }
+
+.lightbox img{
+	width: 200px;
+	height: auto;
+}
