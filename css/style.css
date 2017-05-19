@@ -16,6 +16,7 @@ BLUE: #00A9B7
 
 p{
 	font-size: 16px;
+	color:#3b3c43;
 }
 
 .content{
@@ -268,9 +269,13 @@ blockquote{
   text-decoration: none;
 }
 
-/*Living connection page start here*/
-.livingconnection{
-	background-image: none);
+/*------------Living connection page start here-------------------*/
+.living{
+	background-image: url("../images/bg_hexagon.png");
+	background-size: full;
+}
+.living div h2{
+	color: #00A9B7
 }
 .row.grid{
 	flex-flow: wrap;
@@ -288,7 +293,7 @@ blockquote{
 	text-align: left;
 }
 .row .col-6 h3{
-	background-image:url("../images/bg_hexagon.png");
+	background-image:none;
 	background-size:5%;
 	background-color: #333;
 	color: white;
@@ -316,23 +321,23 @@ blockquote{
 /*.EE .circle-btn{ border-color: red; }
 .EE .circle-btn.clicked{ background: rgba(230, 92, 92, 1) }
 .EE .circle-btn:hover{ background: rgba(230, 92, 92, 0.59); }*/
-.EE div p{border-color: red;}
-.EE div p.clicked{background:red; }
+.EE div p{border-color: #d62d5e;}
+.EE div p.clicked{background:#d62d5e; color: white}
 
-.SI div p{ border-color: orange; }
-.SI div p.clicked{background:orange; }
+.SI div p{ border-color: #b9b900; }
+.SI div p.clicked{background:#b9b900;color: white }
 
-.NS div p{ border-color: #ADFF2F; }
-.NS div p.clicked{background:#ADFF2F; }
+.NS div p{ border-color: #1c8e1c; }
+.NS div p.clicked{background:#1c8e1c; color: white}
 
-.KS div p{ border-color: #DAA520; }
-.KS div p.clicked{background:#DAA520; }
+.KS div p{ border-color: #e58229; }
+.KS div p.clicked{background:#e58229; color: white}
 
 .CT div p{ border-color: #FF8C00; }
-.CT div p.clicked{background:#FF8C00; }
+.CT div p.clicked{background:#FF8C00; color: white }
 
-.PB div p{ border-color: #8B008B; }
-.PB div p.clicked{background:#8B008B; }
+.PB div p{ border-color: #8b008b; }
+.PB div p.clicked{background:#8b008b; color: white}
 
 /*.SI .circle-btn{ border-color: 	#ADFF2F; }
 .SI .circle-btn.clicked{ background:#ADFF2F; }
@@ -357,6 +362,7 @@ blockquote{
 	text-align: center;
 	margin-left:26px;
 	padding-top: 44px;
+	padding-bottom: 16px;
 }
 .map-menu li:first-child{
 	margin-left: 0;
@@ -395,6 +401,8 @@ blockquote{
 	z-index: 1;
 }
 
+/*----------Living connection page end here----------*/
+
 footer {
 	color: #fff;
 	background:black;
@@ -431,6 +439,7 @@ p.about{
 }
 
 .iwb p{
+	color: white;
 	margin-left: 20px;
 	text-align: left;
 	font-size: 12px;
@@ -520,7 +529,7 @@ div.lightbox h3{
 	margin: auto;
 	padding: 0 24px;
 	text-align: center;
-	flex-basis: 10%;
+	flex-basis: 40%;
 }
 
 .lightbox .row .col-90-p{
@@ -549,7 +558,7 @@ hr {
     border: 0;
     height: 1px;
     background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));
-    margin: 50px 0;
+    margin: 20px 0;
 }
 
 .strategy-number, .objective-number{
@@ -630,3 +639,31 @@ div.applicability{
 
 
 /*-----------------------------------------*/
+
+/*----------------waterfont casestudy-----------------*/
+.aa{
+	text-align: center; /*to center one sentence on the top of casestudy page*/
+}
+.process{
+	background: none;
+	padding-top: 0;
+	padding-bottom: 56.25%;
+	height: 0;
+}
+.process h2{
+	padding-top: 50px;
+	color: #00A9B7;
+	font-size: 60px;
+}
+.process.content div p{
+	text-align: left;
+	color: #333;
+	font-size: 16px;
+}
+.process video{
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	
+}
