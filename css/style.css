@@ -13,10 +13,17 @@ BLUE: #00A9B7
 	font-family: 'lato', sans-serif;
 }
 
+section.dark-background{
+	color: #FFF;
+}
+
+section.light-background{
+	color:#3b3c43;
+}
+
 
 p{
 	font-size: 16px;
-	color:#3b3c43;
 }
 
 .content{
