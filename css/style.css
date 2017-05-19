@@ -139,7 +139,7 @@ header nav ul li a:hover{
 section.casestudy{
 	background: url("../images/case-study-background.png") repeat;
 	background-size: cover;
-	background-position: middle;
+	background-position: center;
 	color: white;
 }
 
