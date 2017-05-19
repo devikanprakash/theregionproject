@@ -504,10 +504,10 @@ p.about{
   height: 100%;
   opacity: 0;
   text-transform: uppercase;
-  font-size: 2vw;
+  font-size: 20px;
   transition: 0.3s;
-  /* bottom: 0; */
-  /* right: 0; */
+   bottom: 0; 
+   right: 0; 
 }
 
 .square span.text-content span {
