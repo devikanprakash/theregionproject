@@ -144,7 +144,11 @@ section.casestudy{
 }
 
 section{
-	padding: 100px 0;
+	padding: 70px 0;
+}
+
+section.shakeups{
+	padding-top: 0;
 }
 
 .world-regionalizing, .links, body.phenomena, .process,
@@ -219,7 +223,19 @@ header p{
 }
 
 .row img{
-	margin-bottom: 25px;
+	padding: 0;
+	text-align: center;
+	max-width: 100%;
+}
+
+.symbiosis .col-3 img{
+	width: 80%;
+}
+
+
+
+.scales .col-3 img{
+	width: 50%;
 }
 
 .row p{
@@ -504,12 +520,7 @@ div.square:hover span.text-content {
   opacity: 1;
 }
 
-.row img{
-  margin: 0;
-  padding: 0;
-  text-align: center;
-  width: 100%;
-}
+
 
 .lightbox {
 	display: none;
