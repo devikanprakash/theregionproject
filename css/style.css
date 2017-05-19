@@ -669,3 +669,9 @@ div.applicability{
 	height: 100%;
 	margin-bottom: 30px;
 }
+
+.projects img{
+	height: 600px;
+	width: auto;
+	margin: auto;
+}
