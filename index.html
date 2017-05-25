@@ -4,21 +4,26 @@
 		<title>The Region Project</title>
 		<link rel="stylesheet" type="text/css" href="css/style.css">
 		<link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet">
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
 	</head>
 	<body class="home">
 		<header>
-			<nav class="content">
-				<a href="index.html">
-					<img src="images/logo.png">
-				</a>
-				<ul>
-					<li><a href="whatsaregion.html">What is a region?</a></li>
-					<li><a href="livingconnections.html">Living Connections</a></li>
-					<li><a href="phenomena.html">Phenomena</a></li>
-					<li><a href="casestudy.html">Case Study</a></li>
-				</ul>
-			</nav>
-			<video autoplay loop muted
+			<div class="wrapper">
+				<div class="menu-btn"><i class="fa fa-bars"></i></div>
+				<nav class="content">
+					<a href="index.html">
+						<img src="images/logo.png">
+					</a>
+					<ul>
+						<li><a href="whatsaregion.html">What is a region?</a></li>
+						<li><a href="livingconnections.html">Living Connections</a></li>
+						<li><a href="phenomena.html">Phenomena</a></li>
+						<li><a href="casestudy.html">Case Study</a></li>
+						<li><a href="about.html">About</a></li>
+					</ul>
+				</nav>
+			</div>
+			<video autoplay loop muted>
 			  <source src="images/Final_Video.mp4" type="video/mp4">
 			  <source src="images/Final_Video.mp4" type="video/ogg">
 				Your browser does not support the video tag.
@@ -85,7 +90,7 @@
 				<article class="col-2">
 					<img src="images/bg_livingconnection.jpg">
 					<h3>Living Connections</h3>
-					<p>The layers of connections that characterize a region are not static. They are living connections. Learn more about what connects a region and why they are important. 
+					<p>The layers of connections that characterize a region are not static. They are living connections. Learn more about what connects a region and why they are important. Lorem lorem this should be fix, this should be fix 
 					</p>
 					<div class="learn-more">
 						<a href="livingconnections.html">Learn More</a>
@@ -142,6 +147,16 @@
 
 		<script type="text/javascript" src="js/jquery-3.2.1.min.js"></script>
 		<script type="text/javascript" src="js/script.js"></script>
+
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
+
+		<script>
+		  $(function() {
+		    $( ".menu-btn" ).click(function() {
+		      $( "body" ).toggleClass( "menu-clicked");
+		    });
+		  });
+		</script>
 
 	</body>
 </html>
