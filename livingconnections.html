@@ -4,10 +4,13 @@
 		<title>Living Connections</title>
 		<link rel="stylesheet" type="text/css" href="css/style.css">
 		<link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet">
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	</head>
 	<body class="livingconnection">
 		<header>
-			<div class="content">
+			<div class="wrapper content">
+				<div class="menu-btn"><i class="fa fa-bars"></i></div>
 				<nav>
 					<a href="index.html">
 						<img src="images/logo.png">
@@ -29,7 +32,7 @@
 					</ul>
 				</nav>
 				<h1>Living Connections</h1>
-				<p>Regions are alive. They are more than just a set of municipalities. They are breathing with relationships from the micro to the macro, from the obvious to the unseen, from the dollars, policies and zoning to the heart-wrenchingly human. The more interconnected these relationships are, the more positive an impact on the region. A region is living connections.
+				<p>Regions are alive. They are more than just a set of municipalities. They are breathing with relationships from the micro to the macro, from the obvious to the unseen, from the dollars, policies and zoning, to the heart-wrenchingly human. The more interconnected these relationships are, the more positive an impact on the region. A region is living connections.
 				</p>
 			</div>
 			
@@ -42,8 +45,7 @@
 				<div class="row grid">
 					<article class="col-6">
 						<h3>ECONOMIC EXCHANGE</h3>
-						<p>Economic exchange is the glue that binds a region together. It’s hubs are the heart of the living connections. Close proximities and industry clusters allow the flow of work, business and economic trade to connect different municipalities together. The strength of an economy in one part of the region, if connected, gets distributed throughout.
-						</p>
+						<p>Economic exchange is the glue that binds a region together. Its hubs are the heart of the living connections. Close proximities and industry clusters allow the flow of work, business and economic trade to connect different municipalities together. The strength of an economy in one part of the region, if connected, gets distributed throughout.</p>
 					</article>
 					<article class="col-6">
 						<h3>SHARED INFRASTRUCTURE</h3>
@@ -152,6 +154,7 @@
 						<li><a href="livingconnections.html">Living Connections</a></li>
 						<li><a href="phenomena.html">Phenomena</a></li>
 						<li><a href="casestudy.html">Case Study</a></li>
+						<li> <a href="about.html">About</a></li>
 					</ul>
 				</nav>
 			</div>
@@ -184,6 +187,15 @@
 		    // $( ".circle-btn" ).click(function() {
 		    //   $( "map-menu" ).toggleClass( "clicked");
 		    // });
+		  });
+		</script>
+			<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
+
+		<script>
+		  $(function() {
+		    $( ".menu-btn" ).click(function() {
+		      $( "body" ).toggleClass( "menu-clicked");
+		    });
 		  });
 		</script>	
 

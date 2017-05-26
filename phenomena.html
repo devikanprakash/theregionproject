@@ -5,11 +5,14 @@
 		<link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet">
 		<link href="css/featherlight.css" type="text/css" rel="stylesheet" title="Featherlight Styles"
 		 />
+		 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 		 <link rel="stylesheet" type="text/css" href="css/style.css">
 	</head>
 <body  class="phenomena">
 	<header>
-		<div class="content">
+		<div class="wrapper content">
+			<div class="menu-btn"><i class="fa fa-bars"></i></div>
 			<nav>
 				<a href="index.html">
 					<img src="images/logo.png">
@@ -438,6 +441,7 @@
 							<li><a href="livingconnections.html">Living Connections</a></li>
 							<li><a href="phenomena.html">Phenomena</a></li>
 							<li><a href="casestudy.html">Case Study</a></li>
+							<li> <a href="about.html">About</a></li>
 						</ul>
 					</nav>
 				</div>
@@ -457,6 +461,15 @@
 	<script type="text/javascript" src="js/jquery-3.2.1.min.js"></script>	
 	<script type="text/javascript" src="js/script.js"></script>
 	<script src="js/featherlight.js" type="text/javascript" charset="utf-8"></script>
+			<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
+
+		<script>
+		  $(function() {
+		    $( ".menu-btn" ).click(function() {
+		      $( "body" ).toggleClass( "menu-clicked");
+		    });
+		  });
+		</script>
 
 </body>
 </html>
