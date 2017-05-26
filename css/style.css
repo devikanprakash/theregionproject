@@ -43,7 +43,7 @@ header nav{
 header nav a img{
 	width: 50px;
 	float: left;
-	margin-top: 40px;
+	margin-top: 22px;
 }
 
 header nav ul{
@@ -122,6 +122,14 @@ header nav ul li a:hover{
 	position: relative;
 	height: 650px;
 	background: url("../images/bg_livingconnection.jpg");
+	background-size: cover;
+	background-position: center;
+}
+
+.aboutpage header{
+	position: relative;
+	height: 650px;
+	background: url("https://thumb9.shutterstock.com/display_pic_with_logo/2117717/562885942/stock-photo-collaboration-connection-team-brainstorming-unity-562885942.jpg");
 	background-size: cover;
 	background-position: center;
 }
@@ -230,20 +238,23 @@ header p{
 	padding: 0;
 	text-align: center;
 	max-width: 100%;
+	margin-bottom: 15px;
 }
 
 .symbiosis .col-3 img{
 	width: 80%;
+
 }
 
 
 
 .scales .col-3 img{
 	width: 50%;
+	margin-bottom: 15px;
 }
 
 .row p{
-	text-align: center;
+	text-align: left;
 }
 
 div.quote{
@@ -313,7 +324,7 @@ blockquote{
 	padding: 0 20px;
 	margin-bottom: 60px;
 	flex-basis:33%;
-	text-align: center;
+	text-align: left;
 
 }
 .row .col-6 p{
@@ -685,6 +696,28 @@ div.applicability{
 	width: 200px;
 	height: auto;
 }
+.aboutpage .content p{
+	margin-top: 10px;
+}
+.row .col-credit{
+	margin: 0 auto;
+	padding:0;
+	width: 192px;
+	text-align: left;
+	flex-basis:33%;
+
+	}
+
+
+
+
+
+
+
+
+
+
+
 
 @media screen and (max-width:480px) {
 
@@ -705,17 +738,43 @@ div.applicability{
 
    	}
    	header .wrapper nav img{
-   		display: none;
+   		position: fixed;
+   		margin-top: 5px;
+   		left: 10px;
    	}
    	header .wrapper nav{
    		overflow: hidden;
+   		position: fixed;
    		width: 100%;
    		height: 0;
    		display: block;
    		z-index: 3;
    		background:rgba(0,0,0,0.9);
    		transition:0.3s;
+   		left: 0;
    	}
+   	h1, h2, h3{
+	margin-bottom: 5px;
+	text-transform: uppercase;
+	}
+
+
+	h2{
+		font-size: 30px;
+	}
+
+	h3{
+		font-size: 20px;
+	}
+	p{
+		font-size: 15px;
+	}
+
+
+
+
+
+
    	.menu-clicked .wrapper nav{
    		height: 100vh;
    		
@@ -735,7 +794,12 @@ div.applicability{
    		padding: 20px;
 
    	}
-   	
+   	/*-------phenomena page start here----*/
+   	.square span.text-content{
+   		top: 20px;
+   	}
+
+   	/*--------phenomena page end here-----*/
 
     .content{
     	padding:0 10px;
@@ -753,4 +817,22 @@ div.applicability{
     .row .col-3{
     	width: 100%;
     }
+    /*-----About page start here------*/
+    .row .col-credit{
+    	width: 100%;
+    }
+    .row .col-credit p{
+    	margin: 0px 5px 0px 0px;
+    }
+    /*-----about page end here--------*/
+
+    .contact{
+    	padding: 0px 20px 0px 83px;
+    }
+    .iwb .about{
+    	
+    	margin-top: 0;
+
+    }
+
 }
