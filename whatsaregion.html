@@ -78,19 +78,19 @@
 			Every regional connection, whether it is an economic exchange or infrastructure development, changes depending on the circumstances affecting its relationship. These types of relationships can be categorized into three broad categories. </p>
 			</div>
 			<div class="row content">
-				<article class="col-3">
-					<img src="images/topheavy-01.svg">
+				<article class="col-3">					
+					<div data-svg-url="images/topheavy-01.svg"></div>
 					<h3>Top Heavy</h3>
 					<p>An area sharing resources of another area in usually a one-sided relationship. This can be seen in connections through natural systems. Example: 40% of the world’s population lives in 250 major river basins. Downstream users are constantly affected by upstream use of water.</p>
 
 				</article>
-				<article class="col-3">
-					<img src="images/dependent-01.svg">
+				<article class="col-3">					
+					<div data-svg-url="images/dependent-01.svg"></div>
 					<h3>Dependent</h3>
 					<p>Areas that are dependent on other areas in order to function without adversely affecting the other area’s resources. This can be seen in civic connections. Example: </p>
 				</article>
-				<article class="col-3">
-					<img id="my-svg" src="images/supportive-01.svg">
+				<article class="col-3">					
+					<div data-svg-url="images/supportive-01.svg"></div>
 					<h3>Supportive</h3>
 					<p>Areas are interdependent on each other for growth. This can be seen in economic connections. Example: The relationship between the pharmaceutical cluster in Mississauga and Toronto's medical research cluster connect two industries that support each other economically. </p>
 				</article>
@@ -131,6 +131,7 @@
 		</footer>
 
 			<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
+			<!-- <script src="js/vivus.min.js"> </script> -->
 			<script src="https://cdn.jsdelivr.net/vivus/latest/vivus.min.js"></script>
 		<script>
 		  $(function() {
@@ -138,12 +139,17 @@
 		      $( "body" ).toggleClass( "menu-clicked");
 		    });
 		  });
-		  // new Vivus('my-svg', {type: 'delayed', duration: 200});
-		 //  var myVivus = new Vivus('my-svg');
-			// myVivus
-			//   .stop()
-			//   .reset()
-			//   .play(2)
+		 
+		 $('[data-svg-url]').each(function(){
+			var duration= $(this).data('vivus-duration')||150;
+			var type= $(this).data('vivus-type')||'delayed';
+			new Vivus(this, {
+				duration:duration, 
+				type:type, 
+				file:$(this).data('svg-url')
+			});
+		});
+
 		</script>
 
 
