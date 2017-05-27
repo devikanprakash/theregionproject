@@ -60,7 +60,7 @@ header nav ul li{
 
 nav ul li a{
 	text-decoration: none;
-	color: white;
+	color: white;©
 	font-family: 'Lato', sans-serif;
 	font-weight: 300;
 	display: block;
@@ -134,12 +134,12 @@ header nav ul li a:hover{
 	background-position: center;
 }
 
-.symbiosis, .design-strategy, .goals{
+.design-strategy, .goals{
 	background: url("../images/bg_orange.png") repeat;
 	color: #FFF;
 }
 
-.scales, .waterfront-context{
+.symbiosis, .scales, .waterfront-context{
 	background: url("../images/bg_blue.png") repeat;
 	color: #FFF;
 }
@@ -159,8 +159,13 @@ section{
 	padding: 70px 0;
 }
 
-section.shakeups{
-	padding-top: 0;
+.shakeups .row .col-6 h3,
+.shakeups .row .col-6 p,
+.shakeups .row .col-6 span{
+	color: #333;
+}
+.shakeups .row .col-6 span{
+	opacity: .5;
 }
 
 .world-regionalizing, .links, body.phenomena, .process,
@@ -243,7 +248,6 @@ header p{
 
 .symbiosis .col-3 img{
 	width: 80%;
-
 }
 
 
@@ -309,35 +313,42 @@ blockquote{
 
 /*------------Living connection page start here-------------------*/
 .living{
-	background-image: url("../images/bg_hexagon.png");
+	background: url("../images/bg_orange.png") repeat;
 	background-size: full;
 }
-.living div h2{
-	color: #00A9B7
+.living div{
+	color: #fff;
 }
 .row.grid{
 	flex-flow: wrap;
-
 }
 
 .row .col-6{
 	padding: 0 20px;
-	margin-bottom: 60px;
-	flex-basis:33%;
-	text-align: left;
-
+	margin-bottom: 20px;
+	flex-basis:50%;
+	text-align: left;	
 }
 .row .col-6 p{
 	text-align: left;
+	color: #fff;
 }
 .row .col-6 h3{
 	background-image:none;
 	background-size:5%;
-	background-color: #333;
+	/*border-bottom:5px solid #fff;*/
+	/*background-color: #333;*/	
+	margin-bottom: 10px;
 	color: white;
+	/*display: inline-block;*/
 }
 .content p{
 	padding-bottom: 10px;
+}
+@media screen and (max-width: 880px){
+	.row .col-6{
+		flex-basis:100%;	
+	}
 }
 
 /*.circle-btn{
@@ -439,6 +450,11 @@ blockquote{
 	z-index: 1;
 }
 
+.maps .row .square{
+	flex-basis:33% !important;
+	width: 33% !important;
+}
+
 /*----------Living connection page end here----------*/
 
 footer {
@@ -501,9 +517,19 @@ p.about{
 	/* height: 280px; */
 	/* display: inline-block; */
 	margin: 10px;
+	background: green;
+	overflow: hidden;
 	flex-basis: 25%;
 }
-
+.square img{
+	padding: 0;
+	vertical-align: middle;
+	margin: 0;
+	transition: 0.3s;
+}
+.square:hover img{
+	transform:scale(1.2);
+}
 .phenomena-grid .row{
 	margin: 0;
 }
@@ -515,15 +541,18 @@ p.about{
   display: table;
   position: absolute;
   left: 0;
-  top: 81px;
+  bottom: 5px;
+  /*margin: auto;*/
+  /*top: 100px;*/
+  text-align: center;
   width: 100%;
-  height: 100%;
+  /*height: 100%;*/
   opacity: 1;
   text-transform: uppercase;
-  font-size: 20px;
+  font-size: 1.3vw;
   transition: 0.3s;
-   bottom: 0; 
-   right: 0; 
+   /*bottom: 0; 
+   right: 0; */
 }
 
 .square span.text-content span {
@@ -583,7 +612,9 @@ div.lightbox h3{
 .lightbox .row p, .lightbox .row h2, .lightbox .row h3{
 	text-align: left;
 }
-
+.lightbox .row p{
+	margin-bottom: 30px;
+}
 .featherlight .featherlight-content {
 	width: 60%;
 }
@@ -682,8 +713,8 @@ div.applicability{
 }
 
 .symbiosis svg{
-	height: 100%;
-	margin-bottom: 30px;
+	/*height: 100%;*/
+	/*margin-bottom: 30px;*/
 }
 
 .projects img{
