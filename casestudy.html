@@ -26,7 +26,7 @@
 				</ul>
 			</nav>
 			<h1>Toronto's Waterfront Case Study</h1>
-			<p>Through the IwB’s partnership with Waterfront Toronto, the team applied collaborative design thinking and strategy to develop and implement design projects that enhance the lives of people across the region by facilitating the six living connections.</p>
+			<p class="intro-p">Through the IwB’s partnership with Waterfront Toronto, the team applied collaborative design thinking and strategy to develop and implement design projects that enhance the lives of people across the region by facilitating the six living connections.</p>
 		</div>
 	</header>
 	<section class="waterfront-context dark-background">
@@ -142,11 +142,28 @@
 			<div class="content">
 				<h2>The DEC</h2>
 				<p>Downtown Entrepreneur Collective (DEC) aims to meet these needs by implementing a new ground floor strategy along the waterfront. The result will be an animated streetscape filled with a restaurants, coffee shops, bakeries, produce, jewelry stores, bike repair shops and a variety of local, and regional small businesses. Strategically located kiosks will house a variety of businesses becoming a marketplace of goods, services and community organizations.</p>
-				<p class="applicability-header">Applicable Living Connections</p>
+				<div class="row cycle-slideshow gallery"
+				class="cycle-slideshow" 
+		        data-cycle-fx=scrollHorz
+		        data-cycle-timeout="5000"
+		        data-cycle-prev="#prev"
+		        data-cycle-next="#next"
+				>
+					<img src="images/waterfront-kiosk-rendering.png"/>
+					<img src="images/pathperks.jpg"/>
+					<img src="images/waterwindows.jpg"/>
+					
+					<div class="pagers">
+					    <a href="" class="prev" id="prev">&#x2190;</a> 
+					    <a href="" class="next" id="next">&#x2192;</a>
+					</div>
+				</div>
+				
+				<!-- <p class="applicability-header">Applicable Living Connections</p>
 				<div class="row applicability">
 					<span>EE</span>
 					<span>CT</span>
-				</div>
+				</div> -->
 
 				<p class="applicability-header">Applicable Phenomena</p>
 				<div class="row applicability">
@@ -156,9 +173,7 @@
 					<span>BE</span>
 					<span>DE</span>
 				</div>
-				<div class="row">
-					<img src="images/waterfront-kiosk-rendering.png"/>
-				</div>				
+								
 			</div>
 		</section>
 		<section class="projects light-background">
@@ -166,11 +181,27 @@
 				<h2>Path Perks</h2>
 				<p>Path Perks connects both local and regional residents to waterfront trail systems by encouraging the discovery of assets along and around these trails through a digital application along with physical markers. This allows residents to connect to local businesses and shared spaces through a curated selection of activities and experiences positioning existing pedestrian trails as anchors for city discovery.</p>
 
-				<p class="applicability-header">Applicable Living Connections</p>
+				<div class="row cycle-slideshow gallery"
+				class="cycle-slideshow" 
+		        data-cycle-fx=scrollHorz
+		        data-cycle-timeout="5000"
+		        data-cycle-prev="#prev2"
+		        data-cycle-next="#next2"
+				>
+					<img src="images/waterfront-kiosk-rendering.png"/>
+					<img src="images/pathperks.jpg"/>
+					<img src="images/waterwindows.jpg"/>
+					
+					<div class="pagers">
+					    <a href="" class="prev" id="prev2">&#x2190;</a> 
+					    <a href="" class="next" id="next2">&#x2192;</a>
+					</div>
+				</div>	
+				<!-- <p class="applicability-header">Applicable Living Connections</p>
 				<div class="row applicability">
 					<span>PR</span>
 					<span>SI</span>
-				</div>
+				</div> -->
 
 				<p class="applicability-header">Applicable Phenomena</p>
 				<div class="row applicability">
@@ -181,21 +212,34 @@
 					<span>JB</span>
 				</div>
 
-				<div class="row">
-					<img src="images/pathperks.jpg"/>
-				</div>	
+				
 			</div>
 		</section>
 		<section class="projects light-background">
 			<div class="content">
 				<h2>Hello Lake</h2>
 				<p>Hello Lake aims to bring the waterfront back into the region through a series of interactive and signature screens throughout the region. These screens allow users to learn more about life on and below the lake. By visually connecting the lake back to the region, Hellow Lake is creating an awareness of the importance of Lake Ontario in all our lives.</p>
-
-				<p class="applicability-header">Applicable Living Connections</p>
+				<div class="row cycle-slideshow gallery"
+				class="cycle-slideshow" 
+		        data-cycle-fx=scrollHorz
+		        data-cycle-timeout="5000"
+		        data-cycle-prev="#prev3"
+		        data-cycle-next="#next3"
+				>
+					<img src="images/waterfront-kiosk-rendering.png"/>
+					<img src="images/pathperks.jpg"/>
+					<img src="images/waterwindows.jpg"/>
+					
+					<div class="pagers">
+					    <a href="" class="prev" id="prev3">&#x2190;</a> 
+					    <a href="" class="next" id="next3">&#x2192;</a>
+					</div>
+				</div>
+				<!-- <p class="applicability-header">Applicable Living Connections</p>
 				<div class="row applicability">
 					<span>NS</span>
 					<span>KS</span>
-				</div>
+				</div> -->
 
 				<p class="applicability-header">Applicable Phenomena</p>
 				<div class="row applicability">
@@ -203,9 +247,7 @@
 					<span>SC</span>
 				</div>
 
-				<div class="row">
-					<img src="images/waterwindows.jpg"/>
-				</div>	
+				
 			</div>
 		</section>
 	</section>
@@ -238,6 +280,7 @@
 		</div>
 	</footer>
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
+	<script src="http://malsup.github.com/jquery.cycle2.js"></script>
 
 		<script>
 		  $(function() {

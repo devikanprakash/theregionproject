@@ -4,6 +4,7 @@
 		<title>Living Connections</title>
 		<link rel="stylesheet" type="text/css" href="css/style.css">
 		<link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet">
+		<link href="css/featherlight.css" type="text/css" rel="stylesheet" title="Featherlight Styles"
 		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	</head>
@@ -32,7 +33,7 @@
 					</ul>
 				</nav>
 				<h1>Living Connections</h1>
-				<p>Regions are alive. They are more than just a set of municipalities. They are breathing with relationships from the micro to the macro, from the obvious to the unseen, from the dollars, policies and zoning, to the heart-wrenchingly human. The more interconnected these relationships are, the more positive an impact on the region. A region is living connections.
+				<p class="intro-p">Regions are alive. They are more than just a set of municipalities. They are breathing with relationships from the micro to the macro, from the obvious to the unseen, from the dollars, policies and zoning, to the heart-wrenchingly human. The more interconnected these relationships are, the more positive an impact on the region. A region is living connections.
 				</p>
 			</div>
 			
@@ -204,42 +205,105 @@
 	<section class="maps">
 		<div class="content row">
 			<div class="square col-3">
-				<a href="#" data-featherlight="#rules-lightbox">
-			      <img src="images/yeolderules.png">
+				<a href="#" data-featherlight="#map-1">
+			      <img src="http://lorempixel.com/400/400/">
 			      <span class="text-content"><span>What if the lake overflows?</span></span>
 			    </a>
 			</div>
 			<div class="square col-3">
-				<a href="#" data-featherlight="#rules-lightbox">
-				      <img src="images/yeolderules.png">
+				<a href="#" data-featherlight="#map-2">
+				      <img src="http://lorempixel.com/400/400/">
 				      <span class="text-content"><span>What if the lake overflows?</span></span>
 				    </a>
 			</div>
 			<div class="square col-3">
-				<a href="#" data-featherlight="#rules-lightbox">
-				      <img src="images/yeolderules.png">
+				<a href="#" data-featherlight="#map-3">
+				      <img src="http://lorempixel.com/400/400/">
 				      <span class="text-content"><span>What if the lake overflows?</span></span>
 				    </a>
 			</div>
 			<div class="square col-3">
-				<a href="#" data-featherlight="#rules-lightbox">
-				      <img src="images/yeolderules.png">
+				<a href="#" data-featherlight="#map-4">
+				      <img src="http://lorempixel.com/400/400/">
 				      <span class="text-content"><span>What if the lake overflows?</span></span>
 				    </a>
 			</div>
 			<div class="square col-3">
-				<a href="#" data-featherlight="#rules-lightbox">
-				      <img src="images/yeolderules.png">
+				<a href="#" data-featherlight="#map-5">
+				      <img src="http://lorempixel.com/400/400/">
 				      <span class="text-content"><span>What if the lake overflows?</span></span>
 				    </a>
 			</div>
 			<div class="square col-3">
-				<a href="#" data-featherlight="#rules-lightbox">
-				      <img src="images/yeolderules.png">
+				<a href="#" data-featherlight="#map-6">
+				      <img src="http://lorempixel.com/400/400/">
 				      <span class="text-content"><span>What if the lake overflows?</span></span>
 				    </a>
 			</div>
 		</div>
+
+		<div id="map-1" class="lightbox">
+			<div class="row title">				
+				<div>
+					<h2>Map Title 1</h2>
+					<p>Map question and description</p>
+				</div>
+			</div>
+			<hr />
+			<img src="http://fillmurray.com/290/150"/>
+		</div>
+		<div id="map-2" class="lightbox">
+			<div class="row title">				
+				<div>
+					<h2>Map Title 2</h2>
+					<p>Map question and description</p>
+				</div>
+			</div>
+			<hr />
+			<img src="http://fillmurray.com/290/150"/>
+		</div>
+		<div id="map-3" class="lightbox">
+			<div class="row title">				
+				<div>
+					<h2>Map Title 3</h2>
+					<p>Map question and description</p>
+				</div>
+			</div>
+			<hr />
+			<img src="http://fillmurray.com/290/150"/>
+		</div>
+		<div id="map-4" class="lightbox">
+			<div class="row title">				
+				<div>
+					<h2>Map Title 4</h2>
+					<p>Map question and description</p>
+				</div>
+			</div>
+			<hr />
+			<img src="http://fillmurray.com/290/150"/>
+		</div>
+		<div id="map-5" class="lightbox">
+			<div class="row title">				
+				<div>
+					<h2>Map Title 5</h2>
+					<p>Map question and description</p>
+				</div>
+			</div>
+			<hr />
+			<img src="http://fillmurray.com/290/150"/>
+		</div>
+		<div id="map-6" class="lightbox">
+			<div class="row title">				
+				<div>
+					<h2>Map Title 6</h2>
+					<p>Map question and description</p>
+				</div>
+			</div>
+			<hr />
+			<img src="http://fillmurray.com/290/150"/>
+		</div>
+
+
 	</section>
 		
 
@@ -288,7 +352,10 @@
 		    // });
 		  });
 		</script>
+			<script type="text/javascript" src="js/jquery-3.2.1.min.js"></script>	
 			<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
+			<script src="js/featherlight.js" type="text/javascript" charset="utf-8"></script>
+			
 
 		<script>
 		  $(function() {
