@@ -270,6 +270,8 @@ header p{
 	flex-basis:33%;
 }
 
+
+
 .row .col-2{
 	margin: 0 auto;
 	padding: 0 24px;
@@ -578,6 +580,7 @@ p.about{
 	overflow: hidden;
 	flex-basis: 25%;
 }
+
 .square img{
 	padding: 0;
 	vertical-align: middle;
@@ -944,6 +947,10 @@ div.applicability{
 		column-count:2;
 	}
 
+	.row .headshot {
+	width: 100%;
+	}
+
     /*-----about page end here--------*/
 
     .contact{
@@ -955,4 +962,18 @@ div.applicability{
 
     }
 
+}
+
+.aboutpage .col-4 {
+	flex-basis: 33%;
+	max-height: 350px;
+}
+
+.phenomena-grid .content {
+	padding-left: 0;
+	padding-right: 0;
+}
+
+.aboutpage section {
+	padding: 20px 0;
 }
