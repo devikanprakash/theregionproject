@@ -139,6 +139,10 @@ header nav ul li a:hover{
 	background-position: center;
 }
 
+.aboutpage header.resources{
+	background: url("../images/bg_livingconnection.jpg");
+}
+
 .design-strategy, .goals{
 	background: url("../images/bg_orange.png") repeat;
 	color: #FFF;
@@ -269,8 +273,6 @@ header p{
 	text-align: center;
 	flex-basis:33%;
 }
-
-
 
 .row .col-2{
 	margin: 0 auto;
@@ -580,7 +582,6 @@ p.about{
 	overflow: hidden;
 	flex-basis: 25%;
 }
-
 .square img{
 	padding: 0;
 	vertical-align: middle;
@@ -677,6 +678,10 @@ div.lightbox h3{
 }
 .featherlight .featherlight-content {
 	width: 60%;
+}
+
+.phenomena .featherlight .featherlight-content {
+	width: 40%
 }
 
 hr {
@@ -947,10 +952,6 @@ div.applicability{
 		column-count:2;
 	}
 
-	.row .headshot {
-	width: 100%;
-	}
-
     /*-----about page end here--------*/
 
     .contact{
@@ -962,18 +963,4 @@ div.applicability{
 
     }
 
-}
-
-.aboutpage .col-4 {
-	flex-basis: 33%;
-	max-height: 350px;
-}
-
-.phenomena-grid .content {
-	padding-left: 0;
-	padding-right: 0;
-}
-
-.aboutpage section {
-	padding: 20px 0;
 }
