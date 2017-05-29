@@ -86,7 +86,7 @@ header nav ul li a:hover{
 
 .home header {
 	position: relative;
-	padding-bottom: 50.78%;
+	padding-bottom: 38.2%;
 	height: 0;
 }
 
@@ -873,8 +873,9 @@ div.applicability{
 }
 
 @media screen and (max-width: 750px){
-	.phenomena-grid .square{
-		flex-basis:50%;
+	.about-grid .row .square{
+		flex-basis:47%;
+		
 	}
 }
 
@@ -897,6 +898,7 @@ div.applicability{
    		color: white;
 
    	}
+
    	header .wrapper nav img{
    		position: fixed;
    		margin-top: 5px;
