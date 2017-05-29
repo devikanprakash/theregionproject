@@ -134,13 +134,13 @@ header nav ul li a:hover{
 .aboutpage header{
 	position: relative;
 	height: 650px;
-	background: url("https://thumb9.shutterstock.com/display_pic_with_logo/2117717/562885942/stock-photo-collaboration-connection-team-brainstorming-unity-562885942.jpg");
+	background: url("../images/banner_about.png");
 	background-size: cover;
 	background-position: center;
 }
 
 .aboutpage header.resources{
-	background: url("../images/bg_livingconnection.jpg");
+	background: url("../images/banner_resources.png");
 }
 
 .design-strategy, .goals{
