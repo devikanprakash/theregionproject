@@ -1,37 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
-	<!ENTITY ns_extend "http://ns.adobe.com/Extensibility/1.0/">
-	<!ENTITY ns_ai "http://ns.adobe.com/AdobeIllustrator/10.0/">
-	<!ENTITY ns_graphs "http://ns.adobe.com/Graphs/1.0/">
-	<!ENTITY ns_vars "http://ns.adobe.com/Variables/1.0/">
-	<!ENTITY ns_imrep "http://ns.adobe.com/ImageReplacement/1.0/">
-	<!ENTITY ns_sfw "http://ns.adobe.com/SaveForWeb/1.0/">
-	<!ENTITY ns_custom "http://ns.adobe.com/GenericCustomNamespace/1.0/">
-	<!ENTITY ns_adobe_xpath "http://ns.adobe.com/XPath/1.0/">
-]>
-<svg version="1.1" id="Layer_1" xmlns:x="&ns_extend;" xmlns:i="&ns_ai;" xmlns:graph="&ns_graphs;"
-	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="107.721px"
-	 height="94.678px" viewBox="45.786 52.75 107.721 94.678" enable-background="new 45.786 52.75 107.721 94.678"
-	 xml:space="preserve">
-<metadata>
-	<sfw  xmlns="&ns_sfw;">
-		<slices></slices>
-		<sliceSourceBounds  width="107.721" height="94.678" y="53.071" x="45.286" bottomLeftOrigin="true"></sliceSourceBounds>
-	</sfw>
-</metadata>
+<!-- Generator: Adobe Illustrator 19.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 107.7 94.7" style="enable-background:new 0 0 107.7 94.7;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#3BB9C5;stroke-miterlimit:10;}
+	.st1{fill:#3BB9C5;}
+</style>
 <g>
-	<polyline fill="none" stroke="#3BB9C5" stroke-miterlimit="10" points="99.714,63.286 111.785,57.929 100.071,53.214 	"/>
-	<polyline fill="none" stroke="#3BB9C5" stroke-miterlimit="10" points="137.643,117.929 136.143,131.071 146.143,123.357 	"/>
-	<polyline fill="none" stroke="#3BB9C5" stroke-miterlimit="10" points="68.071,122 57.429,114.143 59.071,126.715 	"/>
-	<path fill="#3BB9C5" d="M55.286,102.571c0,1.786-0.929,3.286-2.357,4.144c-0.714,0.428-1.5,0.643-2.357,0.643
-		c-2.643,0-4.786-2.143-4.786-4.786c0-2.643,2.143-4.786,4.786-4.786c0.857,0,1.643,0.214,2.357,0.643
-		c1.428,0.786,2.357,2.286,2.357,4C55.286,102.5,55.286,102.571,55.286,102.571z"/>
-	<path fill="#3BB9C5" d="M81.714,58.286v0.071c0,2.643-2.143,4.786-4.786,4.786c-1.143,0-2.214-0.429-3-1.072
-		c-1.072-0.857-1.714-2.214-1.714-3.714c0-2.643,2.143-4.786,4.786-4.786C79.571,53.571,81.643,55.643,81.714,58.286z"/>
+	<polyline class="st0" points="53.9,10.5 66,5.2 54.3,0.5 	"/>
+	<polyline class="st0" points="91.9,65.2 90.4,78.3 100.4,70.6 	"/>
+	<polyline class="st0" points="22.3,69.2 11.6,61.4 13.3,74 	"/>
+	<path class="st1" d="M9.5,49.8c0,1.8-0.9,3.3-2.4,4.1c-0.7,0.4-1.5,0.6-2.4,0.6c-2.6,0-4.8-2.1-4.8-4.8C0,47.2,2.1,45,4.8,45
+		c0.9,0,1.6,0.2,2.4,0.6c1.4,0.8,2.4,2.3,2.4,4C9.5,49.7,9.5,49.8,9.5,49.8z"/>
+	<path class="st1" d="M35.9,5.5L35.9,5.5c0,2.7-2.1,4.9-4.8,4.9c-1.1,0-2.2-0.4-3-1.1c-1.1-0.9-1.7-2.2-1.7-3.7
+		c0-2.6,2.1-4.8,4.8-4.8C33.8,0.8,35.9,2.9,35.9,5.5z"/>
 	<g>
-		<polyline fill="none" stroke="#3BB9C5" stroke-miterlimit="10" points="81.714,58.286 127.357,58.286 152.929,102.571 
-			127.357,146.929 76.143,146.929 52.929,106.715 		"/>
+		<polyline class="st0" points="35.9,5.5 81.6,5.5 107.1,49.8 81.6,94.2 30.4,94.2 7.1,54 		"/>
 	</g>
 </g>
 </svg>

@@ -1,50 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
-	<!ENTITY ns_extend "http://ns.adobe.com/Extensibility/1.0/">
-	<!ENTITY ns_ai "http://ns.adobe.com/AdobeIllustrator/10.0/">
-	<!ENTITY ns_graphs "http://ns.adobe.com/Graphs/1.0/">
-	<!ENTITY ns_vars "http://ns.adobe.com/Variables/1.0/">
-	<!ENTITY ns_imrep "http://ns.adobe.com/ImageReplacement/1.0/">
-	<!ENTITY ns_sfw "http://ns.adobe.com/SaveForWeb/1.0/">
-	<!ENTITY ns_custom "http://ns.adobe.com/GenericCustomNamespace/1.0/">
-	<!ENTITY ns_adobe_xpath "http://ns.adobe.com/XPath/1.0/">
-]>
-<svg version="1.1" id="Layer_1" xmlns:x="&ns_extend;" xmlns:i="&ns_ai;" xmlns:graph="&ns_graphs;"
-	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="107.215px" height="98px"
-	 viewBox="-179.071 61.714 107.215 98" enable-background="new -179.071 61.714 107.215 98" xml:space="preserve">
-<metadata>
-	<sfw  xmlns="&ns_sfw;">
-		<slices></slices>
-		<sliceSourceBounds  width="107.215" height="98" y="40.786" x="-179.571" bottomLeftOrigin="true"></sliceSourceBounds>
-	</sfw>
-</metadata>
+<!-- Generator: Adobe Illustrator 19.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 107.2 98" style="enable-background:new 0 0 107.2 98;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#3BB9C5;}
+	.st1{fill:none;stroke:#3BB9C5;stroke-miterlimit:10;}
+	.st2{fill:none;stroke:#3BB9C5;stroke-miterlimit:10;stroke-dasharray:6.2166,6.2166;}
+	.st3{fill:none;stroke:#3BB9C5;stroke-miterlimit:10;stroke-dasharray:5.9545,5.9545;}
+</style>
 <g>
 	<g>
-		<path fill="#3BB9C5" d="M-148.214,67.214h50.358l25.214,43.643L-97.856,154.5h-50.358l-25.214-43.715L-148.214,67.214
-			 M-148.643,66.5l-25.572,44.357l25.572,44.357h51.214l25.572-44.357L-97.429,66.5H-148.643L-148.643,66.5z"/>
+		<path class="st0" d="M30.9,5.5h50.4l25.2,43.6L81.2,92.8H30.9L5.6,49.1L30.9,5.5 M30.4,4.8L4.9,49.1l25.6,44.4h51.2l25.6-44.4
+			L81.6,4.8H30.4L30.4,4.8z"/>
 	</g>
 	<g>
-		<circle fill="#3BB9C5" cx="-174.286" cy="110.786" r="4.786"/>
+		<circle class="st0" cx="4.8" cy="49.1" r="4.8"/>
 	</g>
 	<g>
-		<circle fill="#3BB9C5" cx="-97.5" cy="66.5" r="4.786"/>
+		<circle class="st0" cx="81.6" cy="4.8" r="4.8"/>
 	</g>
 	<g>
-		<circle fill="#3BB9C5" cx="-148.5" cy="154.929" r="4.786"/>
+		<circle class="st0" cx="30.6" cy="93.2" r="4.8"/>
 	</g>
 	<g>
 		<g>
-			<line fill="none" stroke="#3BB9C5" stroke-miterlimit="10" x1="-174.286" y1="110.785" x2="-172.428" y2="109.715"/>
-			
-				<line fill="none" stroke="#3BB9C5" stroke-miterlimit="10" stroke-dasharray="6.2166,6.2166" x1="-168.571" y1="107.5" x2="-101.214" y2="68.714"/>
-			<polyline fill="none" stroke="#3BB9C5" stroke-miterlimit="10" points="-99.356,67.571 -97.5,66.5 -98.571,68.357 			"/>
-			
-				<line fill="none" stroke="#3BB9C5" stroke-miterlimit="10" stroke-dasharray="5.9545,5.9545" x1="-100.643" y1="72.071" x2="-146.357" y2="151.215"/>
-			<line fill="none" stroke="#3BB9C5" stroke-miterlimit="10" x1="-147.428" y1="153.072" x2="-148.5" y2="154.93"/>
+			<line class="st1" x1="4.8" y1="49.1" x2="6.6" y2="48"/>
+			<line class="st2" x1="10.5" y1="45.8" x2="77.9" y2="7"/>
+			<polyline class="st1" points="79.7,5.9 81.6,4.8 80.5,6.6 			"/>
+			<line class="st3" x1="78.4" y1="10.4" x2="32.7" y2="89.5"/>
+			<line class="st1" x1="31.6" y1="91.4" x2="30.6" y2="93.2"/>
 		</g>
 	</g>
-	<polyline fill="none" stroke="#3BB9C5" stroke-miterlimit="10" points="-138,125.357 -139,138.5 -129.214,130.5 	"/>
-	<polyline fill="none" stroke="#3BB9C5" stroke-miterlimit="10" points="-141.071,97.5 -133.643,86.571 -146.143,88.714 	"/>
+	<polyline class="st1" points="41.1,63.6 40.1,76.8 49.9,68.8 	"/>
+	<polyline class="st1" points="38,35.8 45.4,24.9 32.9,27 	"/>
 </g>
 </svg>

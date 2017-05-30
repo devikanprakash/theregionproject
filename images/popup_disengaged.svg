@@ -1,109 +1,68 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
-	<!ENTITY ns_extend "http://ns.adobe.com/Extensibility/1.0/">
-	<!ENTITY ns_ai "http://ns.adobe.com/AdobeIllustrator/10.0/">
-	<!ENTITY ns_graphs "http://ns.adobe.com/Graphs/1.0/">
-	<!ENTITY ns_vars "http://ns.adobe.com/Variables/1.0/">
-	<!ENTITY ns_imrep "http://ns.adobe.com/ImageReplacement/1.0/">
-	<!ENTITY ns_sfw "http://ns.adobe.com/SaveForWeb/1.0/">
-	<!ENTITY ns_custom "http://ns.adobe.com/GenericCustomNamespace/1.0/">
-	<!ENTITY ns_adobe_xpath "http://ns.adobe.com/XPath/1.0/">
-]>
-<svg version="1.1" id="Layer_1" xmlns:x="&ns_extend;" xmlns:i="&ns_ai;" xmlns:graph="&ns_graphs;"
-	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="108.657px"
-	 height="93.714px" viewBox="44.49 54.071 108.657 93.714" enable-background="new 44.49 54.071 108.657 93.714"
-	 xml:space="preserve">
-<metadata>
-	<sfw  xmlns="&ns_sfw;">
-		<slices></slices>
-		<sliceSourceBounds  width="108.657" height="93.714" y="52.715" x="43.99" bottomLeftOrigin="true"></sliceSourceBounds>
-	</sfw>
-</metadata>
+<!-- Generator: Adobe Illustrator 19.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 108.7 93.7" style="enable-background:new 0 0 108.7 93.7;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#3BB9C5;stroke-miterlimit:10;}
+	.st1{fill:#3BB9C5;}
+</style>
 <g>
-	<path fill="none" stroke="#3BB9C5" stroke-miterlimit="10" d="M125,145.929H73.071l-17.286-30l8.357-4.714l3.143-1.786l3.429-1.929
-		l3.429-1.929l3.428-1.929L81,101.715l3.429-1.929l3.428-1.929l3.429-1.928L94.714,94l3.429-1.929h2.786L104.143,94l3.215,1.929
-		l3.214,1.928l3.214,1.929l3.215,1.929l3.215,1.928l3.214,1.929l3.214,1.929l3.215,1.929l2.785,1.714l9.357,5.786L125,145.929z
-		 M81.071,101.571l-3.428,1.929l-3.429,1.929l-3.429,1.929l-3.429,1.928l-3.143,1.786l-8.357,4.714l17.286,30h51.928l16.786-29.07
-		l-9.357-5.786l-2.785-1.714l-3.215-1.93l-3.215-1.928l-3.214-1.929l-3.214-1.929 M45.571,100.929L45.571,100.929L45.571,100.929
-		L45.571,100.929l26.786-46.357h53.572l26.786,46.357 M54.571,116.5l17.786,30.785h53.572l17.143-29.714"/>
+	<path class="st0" d="M80.5,91.9H28.6l-17.3-30l8.4-4.7l3.1-1.8l3.4-1.9l3.4-1.9l3.4-1.9l3.4-1.9l3.4-1.9l3.4-1.9l3.4-1.9l3.4-1.9
+		l3.4-1.9h2.8l3.2,1.9l3.2,1.9l3.2,1.9l3.2,1.9l3.2,1.9l3.2,1.9l3.2,1.9l3.2,1.9l3.2,1.9l2.8,1.7l9.4,5.8L80.5,91.9z M36.6,47.5
+		l-3.4,1.9l-3.4,1.9l-3.4,1.9l-3.4,1.9L19.7,57l-8.4,4.7l17.3,30h51.9l16.8-29.1L88,56.9l-2.8-1.7L82,53.2l-3.2-1.9l-3.2-1.9
+		l-3.2-1.9 M1.1,46.9L1.1,46.9L1.1,46.9L1.1,46.9L27.9,0.5h53.6l26.8,46.4 M10.1,62.4l17.8,30.8h53.6l17.1-29.7"/>
 	<g>
-		<polygon fill="#3BB9C5" points="99.714,91 98.286,91.786 101.071,91.786 		"/>
+		<polygon class="st1" points="55.2,36.9 53.8,37.7 56.6,37.7 		"/>
 	</g>
-	<polyline fill="none" stroke="#3BB9C5" stroke-miterlimit="10" points="77.643,103.571 50.286,103.571 46.786,101.571 
-		81.071,101.571 	"/>
-	<path fill="none" stroke="#3BB9C5" stroke-miterlimit="10" d="M117,101.571h33.929c0.071,0,0.143,0.144,0.071,0.144l-3.571,1.785
-		h-27.214"/>
-	<path fill="none" stroke="#3BB9C5" stroke-miterlimit="10" d="M113.785,99.643h36c0.072,0,0.144-0.143,0.072-0.143l-3.429-1.786
-		h-35.857"/>
-	<polyline fill="none" stroke="#3BB9C5" stroke-miterlimit="10" points="87.929,97.714 51.857,97.714 48.071,99.643 84.5,99.643 	
-		"/>
-	<path fill="none" stroke="#3BB9C5" stroke-miterlimit="10" d="M113.785,99.643h36.357c0,0,0,0,0.072,0l1.143,0.571
-		c0.571,0.286,0.571,1.071,0,1.357l0,0c0,0,0,0-0.072,0H117"/>
-	<polyline fill="none" stroke="#3BB9C5" stroke-miterlimit="10" points="81.071,101.571 46.786,101.571 45.571,100.929 
-		48.071,99.643 84.5,99.643 	"/>
+	<polyline class="st0" points="33.2,49.5 5.8,49.5 2.3,47.5 36.6,47.5 	"/>
+	<path class="st0" d="M72.5,47.5h33.9c0.1,0,0.1,0.1,0.1,0.1l-3.6,1.8H75.7"/>
+	<path class="st0" d="M69.3,45.6h36c0.1,0,0.1-0.1,0.1-0.1l-3.4-1.8H66.1"/>
+	<polyline class="st0" points="43.4,43.6 7.4,43.6 3.6,45.6 40,45.6 	"/>
+	<path class="st0" d="M69.3,45.6h36.4c0,0,0,0,0.1,0l1.1,0.6c0.6,0.3,0.6,1.1,0,1.4l0,0c0,0,0,0-0.1,0H72.5"/>
+	<polyline class="st0" points="36.6,47.5 2.3,47.5 1.1,46.9 3.6,45.6 40,45.6 	"/>
 	<g>
-		<path fill="#3BB9C5" d="M99.714,73.929l6.5,3.428H93L99.714,73.929 M99.786,73.143l-9.643,4.928h19.072L99.786,73.143
-			L99.786,73.143z"/>
+		<path class="st1" d="M55.2,19.9l6.5,3.4H48.5L55.2,19.9 M55.3,19.1L45.7,24h19.1L55.3,19.1L55.3,19.1z"/>
 	</g>
-	<polyline fill="none" stroke="#3BB9C5" stroke-miterlimit="10" points="129.715,108.5 135.857,108.5 139.715,106.571 
-		126.571,106.571 	"/>
-	<polyline fill="none" stroke="#3BB9C5" stroke-miterlimit="10" points="70.714,106.571 57.357,106.571 60.929,108.5 67.286,108.5 	
-		"/>
-	<polyline fill="none" stroke="#3BB9C5" stroke-miterlimit="10" points="133.215,110.785 137.643,108.5 131.071,109 	"/>
-	<polyline fill="none" stroke="#3BB9C5" stroke-miterlimit="10" points="65.429,108.5 59.143,108.5 63,110.857 	"/>
+	<polyline class="st0" points="85.2,54.4 91.4,54.4 95.2,52.5 82.1,52.5 	"/>
+	<polyline class="st0" points="26.2,52.5 12.9,52.5 16.4,54.4 22.8,54.4 	"/>
+	<polyline class="st0" points="88.7,56.7 93.2,54.4 86.6,54.9 	"/>
+	<polyline class="st0" points="20.9,54.4 14.7,54.4 18.5,56.8 	"/>
 	<g>
-		<path fill="#3BB9C5" d="M109,78.786l1,0.5H89.214l1.071-0.5H109 M109.143,78.071H90.071L86.286,80h26.643L109.143,78.071
-			L109.143,78.071z"/>
+		<path class="st1" d="M64.5,24.7l1,0.5H44.7l1.1-0.5H64.5 M64.7,24H45.6l-3.8,1.9h26.6L64.7,24L64.7,24z"/>
 	</g>
 	<g>
-		<path fill="#3BB9C5" d="M104.215,76.5l0.428,0.357H94.571l0.5-0.357H104.215 M104.429,75.786h-9.572l-2.643,1.786h14.571
-			L104.429,75.786L104.429,75.786z"/>
+		<path class="st1" d="M59.7,22.4l0.4,0.4H50.1l0.5-0.4H59.7 M59.9,21.7h-9.6l-2.6,1.8h14.6L59.9,21.7L59.9,21.7z"/>
 	</g>
-	<polyline fill="none" stroke="#3BB9C5" stroke-miterlimit="10" points="126.571,107.5 139.715,107.5 143.571,105.5 123.357,105.5 	
-		"/>
-	<polyline fill="none" stroke="#3BB9C5" stroke-miterlimit="10" points="74.143,105.5 53.857,105.5 57.357,107.5 70.714,107.5 	"/>
-	<polyline fill="none" stroke="#3BB9C5" stroke-miterlimit="10" points="123.357,105.5 143.571,105.5 147.429,103.571 
-		120.215,103.571 	"/>
-	<polyline fill="none" stroke="#3BB9C5" stroke-miterlimit="10" points="77.643,103.571 50.286,103.571 53.857,105.5 74.143,105.5 	
-		"/>
-	<polyline fill="none" stroke="#3BB9C5" stroke-miterlimit="10" points="110.643,97.714 146.5,97.714 142.715,95.714 
-		107.429,95.714 	"/>
-	<polyline fill="none" stroke="#3BB9C5" stroke-miterlimit="10" points="91.429,95.714 55.714,95.714 51.857,97.714 87.929,97.714 	
-		"/>
+	<polyline class="st0" points="82.1,53.4 95.2,53.4 99.1,51.4 78.9,51.4 	"/>
+	<polyline class="st0" points="29.7,51.4 9.4,51.4 12.9,53.4 26.2,53.4 	"/>
+	<polyline class="st0" points="78.9,51.4 99.1,51.4 102.9,49.5 75.7,49.5 	"/>
+	<polyline class="st0" points="33.2,49.5 5.8,49.5 9.4,51.4 29.7,51.4 	"/>
+	<polyline class="st0" points="66.2,43.6 102,43.6 98.2,41.6 62.9,41.6 	"/>
+	<polyline class="st0" points="46.9,41.6 11.2,41.6 7.4,43.6 43.4,43.6 	"/>
 	<g>
-		<path fill="#3BB9C5" d="M127.643,88.571l1,0.5h-58.5l1.071-0.5H127.643 M127.785,87.857H71l-3.786,1.929h64.357L127.785,87.857
-			L127.785,87.857z"/>
+		<path class="st1" d="M83.2,34.5l1,0.5H25.7l1.1-0.5H83.2 M83.3,33.8H26.5l-3.8,1.9h64.4L83.3,33.8L83.3,33.8z"/>
 	</g>
-	<polyline fill="none" stroke="#3BB9C5" stroke-miterlimit="10" points="104.285,93.786 139,93.786 135.285,91.786 101.071,91.786 
-		98.286,91.786 63.357,91.786 59.5,93.786 94.857,93.786 	"/>
+	<polyline class="st0" points="59.8,39.7 94.5,39.7 90.8,37.7 56.6,37.7 53.8,37.7 18.9,37.7 15,39.7 50.4,39.7 	"/>
 	<g>
-		<path fill="#3BB9C5" d="M112.715,80.786l1,0.5H85.357l1.072-0.5H112.715 M112.929,80.071H86.286L82.429,82h34.143L112.929,80.071
-			L112.929,80.071z"/>
+		<path class="st1" d="M68.2,26.7l1,0.5H40.9l1.1-0.5H68.2 M68.4,26H41.8l-3.9,1.9h34.1L68.4,26L68.4,26z"/>
 	</g>
-	<polyline fill="none" stroke="#3BB9C5" stroke-miterlimit="10" points="107.429,95.714 142.715,95.714 139,93.786 104.285,93.786 	
-		"/>
-	<polyline fill="none" stroke="#3BB9C5" stroke-miterlimit="10" points="94.857,93.786 59.5,93.786 55.714,95.714 91.429,95.714 	
-		"/>
+	<polyline class="st0" points="62.9,41.6 98.2,41.6 94.5,39.7 59.8,39.7 	"/>
+	<polyline class="st0" points="50.4,39.7 15,39.7 11.2,41.6 46.9,41.6 	"/>
 	<g>
-		<path fill="#3BB9C5" d="M131.357,90.571l1,0.5H66.286l1-0.5H131.357 M131.571,89.857H67.143l-3.786,1.929h71.928L131.571,89.857
-			L131.571,89.857z"/>
+		<path class="st1" d="M86.9,36.5l1,0.5H21.8l1-0.5H86.9 M87.1,35.8H22.7l-3.8,1.9h71.9L87.1,35.8L87.1,35.8z"/>
 	</g>
 	<g>
-		<path fill="#3BB9C5" d="M116.429,82.714l1,0.5H81.571l1-0.5H116.429 M116.643,82H82.5l-3.786,1.929h41.714L116.643,82L116.643,82z
-			"/>
+		<path class="st1" d="M71.9,28.6l1,0.5H37.1l1-0.5H71.9 M72.2,27.9H38l-3.8,1.9h41.7L72.2,27.9L72.2,27.9z"/>
 	</g>
 	<g>
-		<path fill="#3BB9C5" d="M120.215,84.643l1,0.5H77.786l1.071-0.5H120.215 M120.357,83.929H78.643l-3.857,1.928h49.286
-			L120.357,83.929L120.357,83.929z"/>
+		<path class="st1" d="M75.7,30.6l1,0.5H33.3l1.1-0.5H75.7 M75.9,29.9H34.2l-3.9,1.9h49.3L75.9,29.9L75.9,29.9z"/>
 	</g>
 	<g>
-		<path fill="#3BB9C5" d="M123.929,86.643l1,0.5h-51l1-0.5H123.929 M124.071,85.929H74.786l-3.857,1.928h56.856L124.071,85.929
-			L124.071,85.929z"/>
+		<path class="st1" d="M79.4,32.6l1,0.5h-51l1-0.5H79.4 M79.6,31.9H30.3l-3.9,1.9h56.9L79.6,31.9L79.6,31.9z"/>
 	</g>
 	<g>
-		<path fill="#3BB9C5" d="M46,100.5l-0.429,0.429L46,100.5z"/>
+		<path class="st1" d="M1.5,46.4l-0.4,0.4L1.5,46.4z"/>
 	</g>
-	<line fill="none" stroke="#3BB9C5" stroke-miterlimit="10" x1="143.071" y1="117.643" x2="141.785" y2="116.929"/>
+	<line class="st0" x1="98.6" y1="63.6" x2="97.3" y2="62.9"/>
 </g>
 </svg>

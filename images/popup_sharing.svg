@@ -1,76 +1,62 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
-	<!ENTITY ns_extend "http://ns.adobe.com/Extensibility/1.0/">
-	<!ENTITY ns_ai "http://ns.adobe.com/AdobeIllustrator/10.0/">
-	<!ENTITY ns_graphs "http://ns.adobe.com/Graphs/1.0/">
-	<!ENTITY ns_vars "http://ns.adobe.com/Variables/1.0/">
-	<!ENTITY ns_imrep "http://ns.adobe.com/ImageReplacement/1.0/">
-	<!ENTITY ns_sfw "http://ns.adobe.com/SaveForWeb/1.0/">
-	<!ENTITY ns_custom "http://ns.adobe.com/GenericCustomNamespace/1.0/">
-	<!ENTITY ns_adobe_xpath "http://ns.adobe.com/XPath/1.0/">
-]>
-<svg version="1.1" id="Layer_1" xmlns:x="&ns_extend;" xmlns:i="&ns_ai;" xmlns:graph="&ns_graphs;"
-	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="107.143px" height="98px"
-	 viewBox="43.857 57.214 107.143 98" enable-background="new 43.857 57.214 107.143 98" xml:space="preserve">
-<metadata>
-	<sfw  xmlns="&ns_sfw;">
-		<slices></slices>
-		<sliceSourceBounds  width="107.143" height="98" y="45.285" x="43.357" bottomLeftOrigin="true"></sliceSourceBounds>
-	</sfw>
-</metadata>
+<!-- Generator: Adobe Illustrator 19.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 107.1 98" style="enable-background:new 0 0 107.1 98;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#3BB9C5;}
+</style>
 <g>
 	<g>
-		<path fill="#3BB9C5" d="M74.643,62.714H125l25.215,43.643L125,149.929H74.643l-25.214-43.644L74.643,62.714 M74.214,62
-			l-25.571,44.357l25.571,44.357h51.214L151,106.357L125.429,62H74.214L74.214,62z"/>
+		<path class="st0" d="M30.8,5.5h50.4l25.2,43.6L81.1,92.7H30.8L5.6,49.1L30.8,5.5 M30.4,4.8L4.8,49.1l25.6,44.4h51.2l25.6-44.4
+			L81.6,4.8H30.4L30.4,4.8z"/>
 	</g>
 	<g>
-		<circle fill="#3BB9C5" cx="48.643" cy="106.357" r="4.786"/>
+		<circle class="st0" cx="4.8" cy="49.1" r="4.8"/>
 	</g>
 	<g>
-		<circle fill="#3BB9C5" cx="125.429" cy="62" r="4.786"/>
+		<circle class="st0" cx="81.6" cy="4.8" r="4.8"/>
 	</g>
 	<g>
-		<circle fill="#3BB9C5" cx="81.071" cy="138.786" r="4.786"/>
+		<circle class="st0" cx="37.2" cy="81.6" r="4.8"/>
 	</g>
 	<g>
-		<circle fill="#3BB9C5" cx="128.643" cy="122.929" r="4.786"/>
+		<circle class="st0" cx="84.8" cy="65.7" r="4.8"/>
 	</g>
 	<g>
-		<circle fill="#3BB9C5" cx="139.429" cy="109.929" r="4.786"/>
+		<circle class="st0" cx="95.6" cy="52.7" r="4.8"/>
 	</g>
 	<g>
-		<circle fill="#3BB9C5" cx="125.429" cy="109.143" r="4.786"/>
+		<circle class="st0" cx="81.6" cy="51.9" r="4.8"/>
 	</g>
 	<g>
-		<circle fill="#3BB9C5" cx="117.785" cy="71.5" r="4.786"/>
+		<circle class="st0" cx="73.9" cy="14.3" r="4.8"/>
 	</g>
 	<g>
-		<circle fill="#3BB9C5" cx="104.571" cy="69.357" r="4.786"/>
+		<circle class="st0" cx="60.7" cy="12.1" r="4.8"/>
 	</g>
 	<g>
-		<circle fill="#3BB9C5" cx="105.857" cy="82.571" r="4.786"/>
+		<circle class="st0" cx="62" cy="25.4" r="4.8"/>
 	</g>
 	<g>
-		<circle fill="#3BB9C5" cx="89.357" cy="76.286" r="4.786"/>
+		<circle class="st0" cx="45.5" cy="19.1" r="4.8"/>
 	</g>
 	<g>
-		<circle fill="#3BB9C5" cx="61.929" cy="98.5" r="4.785"/>
+		<circle class="st0" cx="18.1" cy="41.3" r="4.8"/>
 	</g>
 	<g>
-		<circle fill="#3BB9C5" cx="61.5" cy="111.071" r="4.786"/>
+		<circle class="st0" cx="17.6" cy="53.9" r="4.8"/>
 	</g>
 	<g>
-		<circle fill="#3BB9C5" cx="74.357" cy="93.714" r="4.786"/>
+		<circle class="st0" cx="30.5" cy="36.5" r="4.8"/>
 	</g>
 	<g>
-		<circle fill="#3BB9C5" cx="69.571" cy="122.071" r="4.786"/>
+		<circle class="st0" cx="25.7" cy="64.9" r="4.8"/>
 	</g>
 	<g>
-		<circle fill="#3BB9C5" cx="74.357" cy="108.357" r="4.786"/>
+		<circle class="st0" cx="30.5" cy="51.1" r="4.8"/>
 	</g>
 	<g>
-		<circle fill="#3BB9C5" cx="74.357" cy="150.429" r="4.786"/>
+		<circle class="st0" cx="30.5" cy="93.2" r="4.8"/>
 	</g>
 </g>
 </svg>

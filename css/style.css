@@ -689,12 +689,14 @@ div.lightbox h3{
 }
 
 .lightbox .row .col-10-p{
-	margin: auto;
+	/*margin: auto;*/
 	padding: 0 24px;
 	text-align: center;
 	flex-basis: 30%;
 }
-
+.lightbox .row .col-10-p object{	
+	max-width: 190px;
+}
 .lightbox .row .col-90-p{
 	margin: auto;
 	padding: 0 24px;

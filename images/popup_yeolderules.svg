@@ -1,33 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
-	<!ENTITY ns_extend "http://ns.adobe.com/Extensibility/1.0/">
-	<!ENTITY ns_ai "http://ns.adobe.com/AdobeIllustrator/10.0/">
-	<!ENTITY ns_graphs "http://ns.adobe.com/Graphs/1.0/">
-	<!ENTITY ns_vars "http://ns.adobe.com/Variables/1.0/">
-	<!ENTITY ns_imrep "http://ns.adobe.com/ImageReplacement/1.0/">
-	<!ENTITY ns_sfw "http://ns.adobe.com/SaveForWeb/1.0/">
-	<!ENTITY ns_custom "http://ns.adobe.com/GenericCustomNamespace/1.0/">
-	<!ENTITY ns_adobe_xpath "http://ns.adobe.com/XPath/1.0/">
-]>
-<svg version="1.1" id="Layer_1" xmlns:x="&ns_extend;" xmlns:i="&ns_ai;" xmlns:graph="&ns_graphs;"
-	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="108.299px"
-	 height="93.786px" viewBox="45.993 51.643 108.299 93.786" enable-background="new 45.993 51.643 108.299 93.786"
-	 xml:space="preserve">
-<metadata>
-	<sfw  xmlns="&ns_sfw;">
-		<slices></slices>
-		<sliceSourceBounds  width="108.299" height="93.786" y="1.964" x="91.344" bottomLeftOrigin="true"></sliceSourceBounds>
-	</sfw>
-</metadata>
+<!-- Generator: Adobe Illustrator 19.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 108.3 93.8" style="enable-background:new 0 0 108.3 93.8;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#3BB9C5;stroke-miterlimit:10;}
+</style>
 <g>
-	<polygon fill="none" stroke="#3BB9C5" stroke-miterlimit="10" points="73.357,52.143 126.929,52.143 153.715,98.5 126.929,144.929 
-		73.357,144.929 46.571,98.5 	"/>
-	<polygon fill="none" stroke="#3BB9C5" stroke-miterlimit="10" points="78.571,61.357 121.357,61.357 142.786,98.429 
-		121.357,135.429 78.571,135.429 57.213,98.429 	"/>
+	<polygon class="st0" points="27.4,0.5 80.9,0.5 107.7,46.9 80.9,93.3 27.4,93.3 0.6,46.9 	"/>
+	<polygon class="st0" points="32.6,9.7 75.4,9.7 96.8,46.8 75.4,83.8 32.6,83.8 11.2,46.8 	"/>
 	<g>
-		<line fill="none" stroke="#3BB9C5" stroke-miterlimit="10" x1="88" y1="88.857" x2="112.571" y2="113.357"/>
-		<line fill="none" stroke="#3BB9C5" stroke-miterlimit="10" x1="87.786" y1="113.357" x2="112.357" y2="88.857"/>
+		<line class="st0" x1="42" y1="37.2" x2="66.6" y2="61.7"/>
+		<line class="st0" x1="41.8" y1="61.7" x2="66.4" y2="37.2"/>
 	</g>
 </g>
 </svg>
