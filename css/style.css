@@ -142,7 +142,11 @@ header nav ul li a:hover{
 }
 
 .aboutpage header.resources{
-	background: url("../images/banner_resources.png");
+	position: relative;
+	height: 650px;
+	background: url("../images/banner_sources.jpg");
+	background-size: cover;
+	background-position: center;
 }
 .projects .project-intro-img{
 	height: auto;
