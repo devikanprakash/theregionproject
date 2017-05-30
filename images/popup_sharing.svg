@@ -1,74 +1,76 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 280 280" style="enable-background:new 0 0 280 280;" xml:space="preserve">
-<style type="text/css">
-	.st0{fill:#3BB9C5;}
-	.st1{fill:none;stroke:#3BB9C5;stroke-miterlimit:10;}
-	.st2{fill:none;stroke:#3BB9C5;stroke-miterlimit:10;stroke-dasharray:6;}
-	.st3{fill:none;stroke:#3BB9C5;stroke-miterlimit:10;stroke-dasharray:6.2166,6.2166;}
-	.st4{fill:none;stroke:#3BB9C5;stroke-miterlimit:10;stroke-dasharray:5.9545,5.9545;}
-	.st5{fill:none;stroke:#FFFFFF;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
-	.st6{fill:none;stroke:#3BB9C5;stroke-miterlimit:10;stroke-dasharray:6.5587,6.5587;}
-	.st7{fill:none;stroke:#3BB9C5;stroke-miterlimit:10;stroke-dasharray:6.3062,6.3062;}
-	.st8{fill:none;stroke:#3BB9C5;stroke-miterlimit:10;stroke-dasharray:5.76,5.76;}
-	.st9{fill:none;stroke:#3BB9C5;stroke-miterlimit:10;stroke-dasharray:6.2812,6.2812;}
-	.st10{fill:none;stroke:#3BB9C5;stroke-miterlimit:10;stroke-dasharray:6.5502,6.5502;}
-	.st11{fill:url(#);stroke:#00A9B7;stroke-miterlimit:10;}
-	.st12{fill:#00A9B7;}
-</style>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
+	<!ENTITY ns_extend "http://ns.adobe.com/Extensibility/1.0/">
+	<!ENTITY ns_ai "http://ns.adobe.com/AdobeIllustrator/10.0/">
+	<!ENTITY ns_graphs "http://ns.adobe.com/Graphs/1.0/">
+	<!ENTITY ns_vars "http://ns.adobe.com/Variables/1.0/">
+	<!ENTITY ns_imrep "http://ns.adobe.com/ImageReplacement/1.0/">
+	<!ENTITY ns_sfw "http://ns.adobe.com/SaveForWeb/1.0/">
+	<!ENTITY ns_custom "http://ns.adobe.com/GenericCustomNamespace/1.0/">
+	<!ENTITY ns_adobe_xpath "http://ns.adobe.com/XPath/1.0/">
+]>
+<svg version="1.1" id="Layer_1" xmlns:x="&ns_extend;" xmlns:i="&ns_ai;" xmlns:graph="&ns_graphs;"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="107.143px" height="98px"
+	 viewBox="43.857 57.214 107.143 98" enable-background="new 43.857 57.214 107.143 98" xml:space="preserve">
+<metadata>
+	<sfw  xmlns="&ns_sfw;">
+		<slices></slices>
+		<sliceSourceBounds  width="107.143" height="98" y="45.285" x="43.357" bottomLeftOrigin="true"></sliceSourceBounds>
+	</sfw>
+</metadata>
 <g>
 	<g>
-		<path class="st0" d="M104.5,87.8l70.5,0l35.3,61.1L175,209.9l-70.5,0l-35.3-61.1L104.5,87.8 M103.9,86.8l-35.8,62.1l35.8,62.1
-			l71.7,0l35.8-62.1l-35.8-62.1L103.9,86.8L103.9,86.8z"/>
+		<path fill="#3BB9C5" d="M74.643,62.714H125l25.215,43.643L125,149.929H74.643l-25.214-43.644L74.643,62.714 M74.214,62
+			l-25.571,44.357l25.571,44.357h51.214L151,106.357L125.429,62H74.214L74.214,62z"/>
 	</g>
 	<g>
-		<circle class="st0" cx="68.1" cy="148.9" r="6.7"/>
+		<circle fill="#3BB9C5" cx="48.643" cy="106.357" r="4.786"/>
 	</g>
 	<g>
-		<circle class="st0" cx="175.6" cy="86.8" r="6.7"/>
+		<circle fill="#3BB9C5" cx="125.429" cy="62" r="4.786"/>
 	</g>
 	<g>
-		<circle class="st0" cx="113.5" cy="194.3" r="6.7"/>
+		<circle fill="#3BB9C5" cx="81.071" cy="138.786" r="4.786"/>
 	</g>
 	<g>
-		<circle class="st0" cx="180.1" cy="172.1" r="6.7"/>
+		<circle fill="#3BB9C5" cx="128.643" cy="122.929" r="4.786"/>
 	</g>
 	<g>
-		<circle class="st0" cx="195.2" cy="153.9" r="6.7"/>
+		<circle fill="#3BB9C5" cx="139.429" cy="109.929" r="4.786"/>
 	</g>
 	<g>
-		<circle class="st0" cx="175.6" cy="152.8" r="6.7"/>
+		<circle fill="#3BB9C5" cx="125.429" cy="109.143" r="4.786"/>
 	</g>
 	<g>
-		<circle class="st0" cx="164.9" cy="100.1" r="6.7"/>
+		<circle fill="#3BB9C5" cx="117.785" cy="71.5" r="4.786"/>
 	</g>
 	<g>
-		<circle class="st0" cx="146.4" cy="97.1" r="6.7"/>
+		<circle fill="#3BB9C5" cx="104.571" cy="69.357" r="4.786"/>
 	</g>
 	<g>
-		<circle class="st0" cx="148.2" cy="115.6" r="6.7"/>
+		<circle fill="#3BB9C5" cx="105.857" cy="82.571" r="4.786"/>
 	</g>
 	<g>
-		<circle class="st0" cx="125.1" cy="106.8" r="6.7"/>
+		<circle fill="#3BB9C5" cx="89.357" cy="76.286" r="4.786"/>
 	</g>
 	<g>
-		<circle class="st0" cx="86.7" cy="137.9" r="6.7"/>
+		<circle fill="#3BB9C5" cx="61.929" cy="98.5" r="4.785"/>
 	</g>
 	<g>
-		<circle class="st0" cx="86.1" cy="155.5" r="6.7"/>
+		<circle fill="#3BB9C5" cx="61.5" cy="111.071" r="4.786"/>
 	</g>
 	<g>
-		<circle class="st0" cx="104.1" cy="131.2" r="6.7"/>
+		<circle fill="#3BB9C5" cx="74.357" cy="93.714" r="4.786"/>
 	</g>
 	<g>
-		<circle class="st0" cx="97.4" cy="170.9" r="6.7"/>
+		<circle fill="#3BB9C5" cx="69.571" cy="122.071" r="4.786"/>
 	</g>
 	<g>
-		<circle class="st0" cx="104.1" cy="151.7" r="6.7"/>
+		<circle fill="#3BB9C5" cx="74.357" cy="108.357" r="4.786"/>
 	</g>
 	<g>
-		<circle class="st0" cx="104.1" cy="210.6" r="6.7"/>
+		<circle fill="#3BB9C5" cx="74.357" cy="150.429" r="4.786"/>
 	</g>
 </g>
 </svg>

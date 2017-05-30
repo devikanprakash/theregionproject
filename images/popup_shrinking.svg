@@ -1,49 +1,51 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 280 280" style="enable-background:new 0 0 280 280;" xml:space="preserve">
-<style type="text/css">
-	.st0{fill:#3BB9C5;}
-	.st1{fill:none;stroke:#3BB9C5;stroke-miterlimit:10;}
-	.st2{fill:none;stroke:#3BB9C5;stroke-miterlimit:10;stroke-dasharray:6;}
-	.st3{fill:none;stroke:#3BB9C5;stroke-miterlimit:10;stroke-dasharray:6.2166,6.2166;}
-	.st4{fill:none;stroke:#3BB9C5;stroke-miterlimit:10;stroke-dasharray:5.9545,5.9545;}
-	.st5{fill:none;stroke:#FFFFFF;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
-	.st6{fill:none;stroke:#3BB9C5;stroke-miterlimit:10;stroke-dasharray:6.5587,6.5587;}
-	.st7{fill:none;stroke:#3BB9C5;stroke-miterlimit:10;stroke-dasharray:6.3062,6.3062;}
-	.st8{fill:none;stroke:#3BB9C5;stroke-miterlimit:10;stroke-dasharray:5.76,5.76;}
-	.st9{fill:none;stroke:#3BB9C5;stroke-miterlimit:10;stroke-dasharray:6.2812,6.2812;}
-	.st10{fill:none;stroke:#3BB9C5;stroke-miterlimit:10;stroke-dasharray:6.5502,6.5502;}
-	.st11{fill:url(#);stroke:#00A9B7;stroke-miterlimit:10;}
-	.st12{fill:#00A9B7;}
-</style>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
+	<!ENTITY ns_extend "http://ns.adobe.com/Extensibility/1.0/">
+	<!ENTITY ns_ai "http://ns.adobe.com/AdobeIllustrator/10.0/">
+	<!ENTITY ns_graphs "http://ns.adobe.com/Graphs/1.0/">
+	<!ENTITY ns_vars "http://ns.adobe.com/Variables/1.0/">
+	<!ENTITY ns_imrep "http://ns.adobe.com/ImageReplacement/1.0/">
+	<!ENTITY ns_sfw "http://ns.adobe.com/SaveForWeb/1.0/">
+	<!ENTITY ns_custom "http://ns.adobe.com/GenericCustomNamespace/1.0/">
+	<!ENTITY ns_adobe_xpath "http://ns.adobe.com/XPath/1.0/">
+]>
+<svg version="1.1" id="Layer_1" xmlns:x="&ns_extend;" xmlns:i="&ns_ai;" xmlns:graph="&ns_graphs;"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="107.142px" height="98px"
+	 viewBox="46.143 51 107.142 98" enable-background="new 46.143 51 107.142 98" xml:space="preserve">
+<metadata>
+	<sfw  xmlns="&ns_sfw;">
+		<slices></slices>
+		<sliceSourceBounds  width="107.142" height="98" y="51.5" x="45.643" bottomLeftOrigin="true"></sliceSourceBounds>
+	</sfw>
+</metadata>
 <g>
 	<g>
-		<path class="st0" d="M107.7,79.1l70.5,0l35.3,61.1l-35.3,61.1l-70.5,0l-35.3-61.1L107.7,79.1 M107.1,78.1l-35.8,62.1l35.8,62.1
-			l71.7,0l35.8-62.1l-35.8-62.1L107.1,78.1L107.1,78.1z"/>
+		<path fill="#3BB9C5" d="M76.929,56.5h50.356l25.215,43.643l-25.215,43.642H76.929l-25.214-43.642L76.929,56.5 M76.5,55.786
+			l-25.571,44.357L76.5,144.5h51.215l25.57-44.357l-25.57-44.357H76.5L76.5,55.786z"/>
 	</g>
 	<g>
-		<circle class="st0" cx="71.3" cy="140.1" r="6.7"/>
+		<circle fill="#3BB9C5" cx="50.929" cy="100.072" r="4.786"/>
 	</g>
 	<g>
-		<circle class="st0" cx="178.8" cy="78.1" r="6.7"/>
+		<circle fill="#3BB9C5" cx="127.715" cy="55.786" r="4.786"/>
 	</g>
 	<g>
-		<circle class="st0" cx="187.1" cy="122.3" r="6"/>
+		<circle fill="#3BB9C5" cx="133.643" cy="87.357" r="4.286"/>
 	</g>
 	<g>
-		<circle class="st0" cx="112.2" cy="122.3" r="6"/>
+		<circle fill="#3BB9C5" cx="80.143" cy="87.357" r="4.286"/>
 	</g>
 	<g>
-		<circle class="st0" cx="107.3" cy="201.9" r="6.7"/>
+		<circle fill="#3BB9C5" cx="76.643" cy="144.214" r="4.786"/>
 	</g>
 	<g>
-		<path class="st0" d="M145.6,109.3l40.9,13.4l8.9,42.1l-32,28.8l-40.9-13.4l-8.9-42.1L145.6,109.3 M145.4,108.2l-32.9,29.5
-			l9.1,43.3l42,13.7l32.9-29.5l-9.1-43.3L145.4,108.2L145.4,108.2z"/>
+		<path fill="#3BB9C5" d="M104,78.071l29.215,9.572l6.356,30.072l-22.856,20.57l-29.215-9.57l-6.357-30.072L104,78.071
+			 M103.857,77.286l-23.5,21.071l6.5,30.928l30,9.786l23.5-21.071l-6.5-30.929L103.857,77.286L103.857,77.286z"/>
 	</g>
 	<g>
-		<path class="st0" d="M125.7,84.3L138.3,99l-6.5,18.3l-19,3.5l-12.6-14.7l6.5-18.3L125.7,84.3 M126.1,83.2l-20.2,3.8L99,106.3
-			l13.3,15.6l20.2-3.8l6.8-19.4L126.1,83.2L126.1,83.2z"/>
+		<path fill="#3BB9C5" d="M89.786,60.214l9,10.5l-4.643,13.071l-13.572,2.5l-9-10.5l4.643-13.071L89.786,60.214 M90.071,59.429
+			l-14.428,2.714l-4.929,13.786l9.5,11.143l14.429-2.714L99.5,70.5L90.071,59.429L90.071,59.429z"/>
 	</g>
 </g>
 </svg>

@@ -1,62 +1,74 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 280 280" style="enable-background:new 0 0 280 280;" xml:space="preserve">
-<style type="text/css">
-	.st0{fill:#3BB9C5;}
-	.st1{fill:none;stroke:#3BB9C5;stroke-miterlimit:10;}
-	.st2{fill:none;stroke:#3BB9C5;stroke-miterlimit:10;stroke-dasharray:6;}
-	.st3{fill:none;stroke:#3BB9C5;stroke-miterlimit:10;stroke-dasharray:6.2166,6.2166;}
-	.st4{fill:none;stroke:#3BB9C5;stroke-miterlimit:10;stroke-dasharray:5.9545,5.9545;}
-	.st5{fill:none;stroke:#FFFFFF;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
-	.st6{fill:none;stroke:#3BB9C5;stroke-miterlimit:10;stroke-dasharray:6.5587,6.5587;}
-	.st7{fill:none;stroke:#3BB9C5;stroke-miterlimit:10;stroke-dasharray:6.3062,6.3062;}
-	.st8{fill:none;stroke:#3BB9C5;stroke-miterlimit:10;stroke-dasharray:5.76,5.76;}
-	.st9{fill:none;stroke:#3BB9C5;stroke-miterlimit:10;stroke-dasharray:6.2812,6.2812;}
-	.st10{fill:none;stroke:#3BB9C5;stroke-miterlimit:10;stroke-dasharray:6.5502,6.5502;}
-	.st11{fill:url(#);stroke:#00A9B7;stroke-miterlimit:10;}
-	.st12{fill:#00A9B7;}
-</style>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
+	<!ENTITY ns_extend "http://ns.adobe.com/Extensibility/1.0/">
+	<!ENTITY ns_ai "http://ns.adobe.com/AdobeIllustrator/10.0/">
+	<!ENTITY ns_graphs "http://ns.adobe.com/Graphs/1.0/">
+	<!ENTITY ns_vars "http://ns.adobe.com/Variables/1.0/">
+	<!ENTITY ns_imrep "http://ns.adobe.com/ImageReplacement/1.0/">
+	<!ENTITY ns_sfw "http://ns.adobe.com/SaveForWeb/1.0/">
+	<!ENTITY ns_custom "http://ns.adobe.com/GenericCustomNamespace/1.0/">
+	<!ENTITY ns_adobe_xpath "http://ns.adobe.com/XPath/1.0/">
+]>
+<svg version="1.1" id="Layer_1" xmlns:x="&ns_extend;" xmlns:i="&ns_ai;" xmlns:graph="&ns_graphs;"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="108.874px"
+	 height="102.857px" viewBox="45.92 44.286 108.874 102.857" enable-background="new 45.92 44.286 108.874 102.857"
+	 xml:space="preserve">
+<metadata>
+	<sfw  xmlns="&ns_sfw;">
+		<slices></slices>
+		<sliceSourceBounds  width="108.874" height="102.857" y="53.357" x="45.42" bottomLeftOrigin="true"></sliceSourceBounds>
+	</sfw>
+</metadata>
 <g>
-	<line class="st5" x1="103" y1="199" x2="103.2" y2="199"/>
-	<polyline class="st1" points="65.5,134 99.6,74.9 103,69 103.2,69 110.2,69 170.5,69 177.4,69 178,69 181.7,75.5 215.5,134 	"/>
-	<line class="st5" x1="178" y1="199" x2="177.4" y2="199"/>
+	
+		<line fill="none" stroke="#FFFFFF" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="73.571" y1="142.143" x2="73.714" y2="142.143"/>
+	<polyline fill="none" stroke="#3BB9C5" stroke-miterlimit="10" points="46.786,95.714 71.143,53.5 73.571,49.286 73.714,49.286 
+		78.714,49.286 121.785,49.286 126.715,49.286 127.143,49.286 129.785,53.929 153.929,95.714 	"/>
+	
+		<line fill="none" stroke="#FFFFFF" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="127.143" y1="142.143" x2="126.715" y2="142.143"/>
 	<g>
-		<circle class="st0" cx="177.4" cy="70.1" r="7"/>
+		<circle fill="#3BB9C5" cx="126.715" cy="50.071" r="5"/>
 	</g>
 	<g>
-		<circle class="st0" cx="177.4" cy="198.1" r="7"/>
+		<circle fill="#3BB9C5" cx="126.715" cy="141.5" r="5"/>
 	</g>
 	<g>
-		<circle class="st0" cx="103.2" cy="69" r="7"/>
+		<circle fill="#3BB9C5" cx="73.714" cy="49.286" r="5"/>
 	</g>
 	<g>
-		<circle class="st0" cx="103" cy="199" r="7"/>
+		<circle fill="#3BB9C5" cx="73.571" cy="142.143" r="5"/>
 	</g>
-	<line class="st1" x1="103.2" y1="69" x2="103.2" y2="134"/>
-	<line class="st1" x1="177.4" y1="69" x2="177.4" y2="134"/>
+	<line fill="none" stroke="#3BB9C5" stroke-miterlimit="10" x1="73.714" y1="49.286" x2="73.714" y2="95.714"/>
+	<line fill="none" stroke="#3BB9C5" stroke-miterlimit="10" x1="126.715" y1="49.286" x2="126.715" y2="95.714"/>
 	<g>
 		<g>
-			<line class="st1" x1="177.4" y1="134" x2="177.4" y2="137"/>
-			<line class="st6" x1="177.4" y1="143.6" x2="177.4" y2="192.7"/>
-			<polyline class="st1" points="177.4,196 177.4,199 178.9,196.4 			"/>
-			<line class="st7" x1="182.1" y1="191" x2="212.4" y2="139.3"/>
-			<polyline class="st1" points="214,136.6 215.5,134 212.5,134 			"/>
-			<line class="st8" x1="206.7" y1="134" x2="71.4" y2="134"/>
-			<polyline class="st1" points="68.5,134 65.5,134 67,136.6 			"/>
-			<line class="st9" x1="70.2" y1="142" x2="100.1" y2="193.6"/>
-			<polyline class="st1" points="101.7,196.4 103.2,199 103.2,196 			"/>
-			<line class="st10" x1="103.2" y1="189.4" x2="103.2" y2="140.3"/>
-			<line class="st1" x1="103.2" y1="137" x2="103.2" y2="134"/>
+			<line fill="none" stroke="#3BB9C5" stroke-miterlimit="10" x1="126.715" y1="95.714" x2="126.715" y2="97.857"/>
+			
+				<line fill="none" stroke="#3BB9C5" stroke-miterlimit="10" stroke-dasharray="6.5587,6.5587" x1="126.715" y1="102.571" x2="126.715" y2="137.643"/>
+			<polyline fill="none" stroke="#3BB9C5" stroke-miterlimit="10" points="126.715,140 126.715,142.143 127.785,140.285 			"/>
+			
+				<line fill="none" stroke="#3BB9C5" stroke-miterlimit="10" stroke-dasharray="6.3062,6.3062" x1="130.071" y1="136.429" x2="151.715" y2="99.5"/>
+			<polyline fill="none" stroke="#3BB9C5" stroke-miterlimit="10" points="152.857,97.571 153.929,95.714 151.785,95.714 			"/>
+			
+				<line fill="none" stroke="#3BB9C5" stroke-miterlimit="10" stroke-dasharray="5.76,5.76" x1="147.643" y1="95.714" x2="51" y2="95.714"/>
+			<polyline fill="none" stroke="#3BB9C5" stroke-miterlimit="10" points="48.929,95.714 46.786,95.714 47.857,97.571 			"/>
+			
+				<line fill="none" stroke="#3BB9C5" stroke-miterlimit="10" stroke-dasharray="6.2812,6.2812" x1="50.143" y1="101.429" x2="71.5" y2="138.285"/>
+			<polyline fill="none" stroke="#3BB9C5" stroke-miterlimit="10" points="72.643,140.285 73.714,142.143 73.714,140 			"/>
+			
+				<line fill="none" stroke="#3BB9C5" stroke-miterlimit="10" stroke-dasharray="6.5502,6.5502" x1="73.714" y1="135.285" x2="73.714" y2="100.214"/>
+			<line fill="none" stroke="#3BB9C5" stroke-miterlimit="10" x1="73.714" y1="97.857" x2="73.714" y2="95.714"/>
 		</g>
 	</g>
-	<line class="st1" x1="110.2" y1="182.4" x2="110.2" y2="188.2"/>
-	<line class="st1" x1="113.3" y1="182.4" x2="113.3" y2="188.2"/>
-	<line class="st1" x1="110.2" y1="78.4" x2="110.2" y2="84.2"/>
-	<line class="st1" x1="170.5" y1="81.3" x2="164.7" y2="81.3"/>
-	<line class="st1" x1="170.5" y1="183.7" x2="164.7" y2="183.7"/>
-	<line class="st1" x1="170.5" y1="187.5" x2="164.7" y2="187.5"/>
-	<line class="st2" x1="103.2" y1="199" x2="177.4" y2="199"/>
-	<line class="st1" x1="65.5" y1="134" x2="215.5" y2="134"/>
+	<line fill="none" stroke="#3BB9C5" stroke-miterlimit="10" x1="78.714" y1="130.285" x2="78.714" y2="134.429"/>
+	<line fill="none" stroke="#3BB9C5" stroke-miterlimit="10" x1="80.929" y1="130.285" x2="80.929" y2="134.429"/>
+	<line fill="none" stroke="#3BB9C5" stroke-miterlimit="10" x1="78.714" y1="56" x2="78.714" y2="60.143"/>
+	<line fill="none" stroke="#3BB9C5" stroke-miterlimit="10" x1="121.785" y1="58.071" x2="117.643" y2="58.071"/>
+	<line fill="none" stroke="#3BB9C5" stroke-miterlimit="10" x1="121.785" y1="131.215" x2="117.643" y2="131.215"/>
+	<line fill="none" stroke="#3BB9C5" stroke-miterlimit="10" x1="121.785" y1="133.929" x2="117.643" y2="133.929"/>
+	
+		<line fill="none" stroke="#3BB9C5" stroke-miterlimit="10" stroke-dasharray="6" x1="73.714" y1="142.143" x2="126.715" y2="142.143"/>
+	<line fill="none" stroke="#3BB9C5" stroke-miterlimit="10" x1="46.786" y1="95.714" x2="153.929" y2="95.714"/>
 </g>
 </svg>
