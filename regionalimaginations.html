@@ -165,7 +165,7 @@
 				</div>
 			</div>
 			<hr />
-			<img src="images/Distancecollapse.png/>
+			<img src="images/Distancecollapse.png">
 		</div>
 		<div id="map-4" class="lightbox">
 			<div class="row title">				
@@ -271,11 +271,65 @@
 				</li> -->
 			</ul>
 			<div class="map">
-				<img class="EE clicked" src="images/downtownblock.png">
-				<img class="SI" src="images/danforthblock.png">
-				<img class="NS" src="images/liveworkplay.png">
-				<img class="KS" src="images/foodblock.png">				
-				<img class="CT" src="images/mixeduseblock.png">				
+				<div class="EE clicked">
+					<h3>Title of map</h3>
+					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+					tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+					quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+					consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+					cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+					proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+					<img class="" src="images/downtownblock.png">					
+				</div>
+
+				<div class="SI ">
+					<h3>Title of map</h3>
+					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+					tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+					quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+					consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+					cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+					proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+					<img class="" src="images/danforthblock.png">
+				</div>
+
+				<div class="NS ">
+					<h3>Title of map</h3>
+					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+					tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+					quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+					consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+					cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+					proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+					<img class="" src="images/liveworkplay.png">				
+				</div>
+
+				<div class="KS ">
+					<h3>Title of map</h3>
+					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+					tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+					quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+					consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+					cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+					proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+					<img class="" src="images/foodblock.png">						
+				</div>
+
+				<div class="CT ">
+					<h3>Title of map</h3>
+					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+					tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+					quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+					consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+					cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+					proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+					<img class="" src="images/mixeduseblock.png">					
+				</div>
+				
+				
+				
+							
+								
 				<!-- <img class="base_map " src="images/Base_images.png"> -->
 			</div>
 		</section>	
@@ -329,8 +383,8 @@
 		  			// $(this).children("div").children("p").toggleClass("clicked");		  			
 					$("ul.map-menu li div p").removeClass('clicked');
 		  			$(this).children("div").children("p").addClass("clicked");		  			
-					$("div.map").find('img').removeClass("clicked");
-		  			$("div.map").find('img.'+classClicked).addClass("clicked");
+					$("div.map").find('div').removeClass("clicked");
+		  			$("div.map").find('div.'+classClicked).addClass("clicked");
 		  		}
 	  		);
 
