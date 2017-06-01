@@ -99,11 +99,13 @@ header nav ul li a:hover{
 	padding-bottom: 30px !important;
 	margin: 0;
 }
-.introduction p a{
+.introduction p a,
+.aboutpage section p a{
 	color: #222;
 	transition:0.2s;
 }
-.introduction p a:hover{
+.introduction p a:hover,
+.aboutpage section p a:hover{
 	color: #00A9B7;
 }
 
