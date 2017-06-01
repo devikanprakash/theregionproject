@@ -86,6 +86,27 @@ header nav ul li a:hover{
 	border-bottom: white solid 3px;
 }
 
+.introduction{	
+	padding: 50px 0;
+}
+.introduction p{
+	font-size: 22px;
+	line-height: 1.5;
+	color: #3b3c43;
+	border-top: 1px solid #3b3c43;	
+	border-bottom: 1px solid #3b3c43;
+	padding-top: 30px;
+	padding-bottom: 30px !important;
+	margin: 0;
+}
+.introduction p a{
+	color: #222;
+	transition:0.2s;
+}
+.introduction p a:hover{
+	color: #00A9B7;
+}
+
 .home header {
 	position: relative;
 	padding-bottom: 38.2%;
@@ -124,7 +145,9 @@ header nav ul li a:hover{
 	background-size: cover;
 	background-position: center;
 }
-
+.casestudy img{
+	vertical-align: middle;	
+}
 .livingconnection header {
 	position: relative;
 	height: 650px;
@@ -136,7 +159,7 @@ header nav ul li a:hover{
 .aboutpage header{
 	position: relative;
 	height: 650px;
-	background: url("../images/banner_about.png");
+	background: url("../images/banner_about.jpg");
 	background-size: cover;
 	background-position: center;
 }
@@ -148,6 +171,18 @@ header nav ul li a:hover{
 	background-size: cover;
 	background-position: center;
 }
+.municipalities-list{
+	list-style: none;
+	column-count:5;
+}
+.resources-list{
+	font-size: 16px;
+	margin-bottom: 40px;
+}
+.resources-list li{
+	margin-bottom: 10px;
+}
+
 .projects .project-intro-img{
 	height: auto;
 	margin-bottom: 10px;
@@ -325,19 +360,17 @@ header p{
 
 div.quote{
 	margin-top: 100px;
+	align-items: center;
 }
 
-blockquote:first-child{
-	margin-top: 0;
-}
+
 
 blockquote{
-	font-size: 20px;
+	font-size: 30px;
 	font-style: italic;
-	margin: auto;
-	vertical-align: center;
-	margin: 40px 0;
+
 }
+
 
 .casestudy blockquote{
 	font-size: 16px;
@@ -428,12 +461,12 @@ blockquote{
 	cursor: pointer;
 	transition:0.2s;
 	font-weight: 400;
-	border-color: #00A9B7;
+	border-color: #ed5338;
 	font-weight: bold;
 }
 .map-menu div p.clicked,
 .map-menu div p:hover{
-	background: #00A9B7;
+	background: #ed5338;
 	color: #fff;
 }
 
@@ -482,6 +515,7 @@ blockquote{
 .map div p,
 .map div h3{
 	text-align: left;
+	min-height: 50px;
 }
 .map div.clicked {
 	opacity: 1;
@@ -492,7 +526,8 @@ blockquote{
 }
 
 .maps{
-	    background: url(../images/bg_blue.png) repeat;
+	    background: url(../images/bg_orange.png) repeat;
+	    color: #fff;
 }
 .maps > .row {
 	display: flex;
@@ -509,9 +544,20 @@ blockquote{
 }
 .maps > .row > .col-3 img{
 	width: 100%;
+
 }
 .maps > .row > .col-3 .text-content span{
 	color: #000;
+	
+	font-size: 16px;
+	text-transform: none;
+	overflow: hidden;
+}
+.maps > .row > .col-3 .text-content{
+	background: rgba(255,255,255, 0.7);
+	padding-bottom: 10px;
+	min-height: 70px;
+
 }
 /*----------Living connection page end here----------*/
 
@@ -543,7 +589,8 @@ p.about{
 
 .iwb article{
 	display: flex;
-	flex-basis: 50%;
+	/*flex-basis: 53%;*/
+	flex-grow:1;
 }
 
 .iwb article img{
@@ -567,7 +614,9 @@ p.about{
 	 flex-basis: 50%;
 }
 
-
+.wt-logo{
+	/*margin-left: 5%;*/	
+}
 
 /*---------- PHENOMENA GRID ---------------*/
 .square{
@@ -600,7 +649,7 @@ p.about{
   display: table;
   position: absolute;
   left: 0;
-  bottom: 5px;
+  bottom: 0px;
   /*margin: auto;*/
   /*top: 100px;*/
   text-align: center;
@@ -639,13 +688,14 @@ div.square:hover span.text-content {
 	flex-basis:30%;
 	margin: 1.5%;	
 	padding: 0;
+	cursor: pointer;
 }
 .aboutpage .lightbox .row>div{
 	  justify-content: flex-start;
 	  margin: 0;
 	  padding: 0;
 	  text-align: left;
-	  
+		margin-right:2%;	  
 
 }
 
@@ -822,6 +872,17 @@ div.applicability{
 	margin: auto;
 }
 
+.project-btn{
+	color: #fff;
+	background: #00A9B7;
+	padding: 10px 20px;
+	display: inline-block;
+	text-decoration: none;
+	transition:0.3s;
+}
+.project-btn:hover{
+	background: #222;
+}
 .lightbox img{
 	width: 100%;
 	height: auto;
@@ -994,7 +1055,8 @@ div.applicability{
    .credit >article.row .col-3{
    	flex-basis:50%;
    }
-    .credit-list{
+    .credit-list,
+    .municipalities-list{
 		column-count:2;
 	}
 
